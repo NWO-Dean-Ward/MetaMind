@@ -433,7 +433,7 @@
       "path": "metamind_db.json"
     },
     "googleDrive": {
-      "active": false,
+      "active": true,
       "clientId": "246727023372-7vn9aasucmndktsr2vu4968motcga2qp.apps.googleusercontent.com",
       "accessToken": ""
     }
