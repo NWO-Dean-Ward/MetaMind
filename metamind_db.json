@@ -240,9 +240,137 @@
           "byUs": true
         },
         {
-          "date": 1764590074372,
+          "date": 1765389205212,
+          "type": "comment",
+          "text": "Gefällt mir sehr.",
+          "byUs": false
+        },
+        {
+          "date": 1765359025437,
+          "type": "comment",
+          "text": "Welches Holz ist das?",
+          "byUs": false
+        },
+        {
+          "date": 1765250709035,
+          "type": "comment",
+          "text": "Toller Tisch!",
+          "byUs": false
+        },
+        {
+          "date": 1764978156812,
+          "type": "comment",
+          "text": "Was kostet das?",
+          "byUs": false
+        },
+        {
+          "date": 1764917339013,
+          "type": "comment",
+          "text": "Gefällt mir sehr.",
+          "byUs": false
+        },
+        {
+          "date": 1764832663918,
           "type": "comment",
           "text": "Sieht super aus.",
+          "byUs": false
+        },
+        {
+          "date": 1764784233269,
+          "type": "comment",
+          "text": "Sieht super aus.",
+          "byUs": false
+        },
+        {
+          "date": 1764635075410,
+          "type": "comment",
+          "text": "Liefert ihr auch nach München?",
+          "byUs": false
+        }
+      ]
+    },
+    {
+      "id": "contact_1765370858870_4",
+      "name": "Markus Handwerk",
+      "platform": "instagram",
+      "interactionCount": 9,
+      "lastInteractionDate": 1765388766302,
+      "sentiment": "positive",
+      "status": "fan",
+      "avatarColor": "bg-pink-500",
+      "notes": "Interessiert an Eiche",
+      "interactionHistory": [
+        {
+          "date": 1765388766302,
+          "type": "reply",
+          "text": "Danke! Ja, wir liefern deutschlandweit.",
+          "byUs": true
+        },
+        {
+          "date": 1765007052570,
+          "type": "comment",
+          "text": "Sieht super aus.",
+          "byUs": false
+        },
+        {
+          "date": 1764981175770,
+          "type": "comment",
+          "text": "Was kostet das?",
+          "byUs": false
+        },
+        {
+          "date": 1764943412703,
+          "type": "comment",
+          "text": "Sieht super aus.",
+          "byUs": false
+        }
+      ]
+    },
+    {
+      "id": "contact_1765370858870_0",
+      "name": "Thomas Weber",
+      "platform": "facebook",
+      "interactionCount": 6,
+      "lastInteractionDate": 1765388463791,
+      "sentiment": "neutral",
+      "status": "new",
+      "avatarColor": "bg-blue-500",
+      "notes": "Interessiert an Eiche",
+      "interactionHistory": [
+        {
+          "date": 1765388463791,
+          "type": "reply",
+          "text": "Danke! Ja, wir liefern deutschlandweit.",
+          "byUs": true
+        },
+        {
+          "date": 1765368627978,
+          "type": "reply",
+          "text": "Danke! Ja, wir liefern deutschlandweit.",
+          "byUs": true
+        },
+        {
+          "date": 1765006587849,
+          "type": "comment",
+          "text": "Sieht super aus.",
+          "byUs": false
+        },
+        {
+          "date": 1764997170476,
+          "type": "comment",
+          "text": "Sieht super aus.",
+          "byUs": false
+        },
+        {
+          "date": 1764896918790,
+          "type": "comment",
+          "text": "Gefällt mir sehr.",
+          "byUs": false
+        },
+        {
+          "date": 1764515154023,
+          "type": "comment",
+          "text": "Gefällt mir sehr.",
           "byUs": false
         }
       ]
@@ -251,34 +379,44 @@
       "id": "contact_1765374697398_6",
       "name": "Julia K.",
       "platform": "instagram",
-      "interactionCount": 2,
+      "interactionCount": 3,
       "lastInteractionDate": 1765376652709,
       "sentiment": "positive",
       "status": "lead",
       "avatarColor": "bg-yellow-500",
-      "notes": "Interessiert an Eiche"
-    },
-    {
-      "id": "contact_1765370858870_0",
-      "name": "Thomas Weber",
-      "platform": "facebook",
-      "interactionCount": 6,
-      "lastInteractionDate": 1765376652709,
-      "sentiment": "neutral",
-      "status": "new",
-      "avatarColor": "bg-blue-500",
-      "notes": "Interessiert an Eiche"
-    },
-    {
-      "id": "contact_1765370858870_4",
-      "name": "Markus Handwerk",
-      "platform": "instagram",
-      "interactionCount": 9,
-      "lastInteractionDate": 1765374697398,
-      "sentiment": "positive",
-      "status": "fan",
-      "avatarColor": "bg-pink-500",
-      "notes": "Interessiert an Eiche"
+      "notes": "Interessiert an Eiche",
+      "interactionHistory": [
+        {
+          "date": 1765213976312,
+          "type": "comment",
+          "text": "Liefert ihr auch nach München?",
+          "byUs": false
+        },
+        {
+          "date": 1765068040870,
+          "type": "comment",
+          "text": "Welches Holz ist das?",
+          "byUs": false
+        },
+        {
+          "date": 1765019651285,
+          "type": "comment",
+          "text": "Sieht super aus.",
+          "byUs": false
+        },
+        {
+          "date": 1764780590170,
+          "type": "comment",
+          "text": "Welches Holz ist das?",
+          "byUs": false
+        },
+        {
+          "date": 1764502824992,
+          "type": "comment",
+          "text": "Gefällt mir sehr.",
+          "byUs": false
+        }
+      ]
     },
     {
       "id": "contact_1765374697398_2",
@@ -310,9 +448,21 @@
           "byUs": false
         },
         {
+          "date": 1765065875430,
+          "type": "comment",
+          "text": "Was kostet das?",
+          "byUs": false
+        },
+        {
           "date": 1765011726813,
           "type": "comment",
           "text": "Gefällt mir sehr.",
+          "byUs": false
+        },
+        {
+          "date": 1764978377516,
+          "type": "comment",
+          "text": "Welches Holz ist das?",
           "byUs": false
         },
         {
@@ -320,8 +470,88 @@
           "type": "comment",
           "text": "Gefällt mir sehr.",
           "byUs": false
+        },
+        {
+          "date": 1764429914381,
+          "type": "comment",
+          "text": "Was kostet das?",
+          "byUs": false
         }
       ]
+    },
+    {
+      "id": "contact_1765401354752_1",
+      "name": "Lisa Berg",
+      "platform": "instagram",
+      "interactionCount": 5,
+      "lastInteractionDate": 1765361251890,
+      "sentiment": "negative",
+      "status": "new",
+      "avatarColor": "bg-yellow-500",
+      "notes": "Hat nach Preisen gefragt (kritisch)",
+      "interactionHistory": [
+        {
+          "date": 1765361251890,
+          "type": "reply",
+          "text": "Danke! Ja, wir liefern deutschlandweit.",
+          "byUs": true
+        },
+        {
+          "date": 1765208629727,
+          "type": "comment",
+          "text": "Gefällt mir sehr.",
+          "byUs": false
+        },
+        {
+          "date": 1765110160019,
+          "type": "comment",
+          "text": "Sieht super aus.",
+          "byUs": false
+        },
+        {
+          "date": 1764945503217,
+          "type": "comment",
+          "text": "Welches Holz ist das?",
+          "byUs": false
+        },
+        {
+          "date": 1764934902093,
+          "type": "comment",
+          "text": "Welches Holz ist das?",
+          "byUs": false
+        },
+        {
+          "date": 1764811679543,
+          "type": "comment",
+          "text": "Toller Tisch!",
+          "byUs": false
+        },
+        {
+          "date": 1764761410102,
+          "type": "comment",
+          "text": "Liefert ihr auch nach München?",
+          "byUs": false
+        },
+        {
+          "date": 1764704481899,
+          "type": "comment",
+          "text": "Welches Holz ist das?",
+          "byUs": false
+        },
+        {
+          "date": 1764612448234,
+          "type": "comment",
+          "text": "Liefert ihr auch nach München?",
+          "byUs": false
+        },
+        {
+          "date": 1764498246218,
+          "type": "comment",
+          "text": "Was kostet das?",
+          "byUs": false
+        }
+      ],
+      "interactedByUs": true
     },
     {
       "id": "contact_1765376652708_2",
@@ -332,7 +562,114 @@
       "sentiment": "neutral",
       "status": "new",
       "avatarColor": "bg-green-500",
-      "notes": "Interessiert an Eiche"
+      "notes": "Interessiert an Eiche",
+      "interactionHistory": [
+        {
+          "date": 1765337880914,
+          "type": "comment",
+          "text": "Sieht super aus.",
+          "byUs": false
+        },
+        {
+          "date": 1765013276331,
+          "type": "comment",
+          "text": "Was kostet das?",
+          "byUs": false
+        },
+        {
+          "date": 1764692543497,
+          "type": "comment",
+          "text": "Sieht super aus.",
+          "byUs": false
+        },
+        {
+          "date": 1764651202251,
+          "type": "comment",
+          "text": "Sieht super aus.",
+          "byUs": false
+        },
+        {
+          "date": 1764622338579,
+          "type": "comment",
+          "text": "Liefert ihr auch nach München?",
+          "byUs": false
+        },
+        {
+          "date": 1764573899568,
+          "type": "comment",
+          "text": "Was kostet das?",
+          "byUs": false
+        }
+      ]
+    },
+    {
+      "id": "contact_1765376652708_3",
+      "name": "Anna Design",
+      "platform": "instagram",
+      "interactionCount": 4,
+      "lastInteractionDate": 1765358532766,
+      "sentiment": "negative",
+      "status": "new",
+      "avatarColor": "bg-red-500",
+      "notes": "Hat nach Preisen gefragt (kritisch)",
+      "interactionHistory": [
+        {
+          "date": 1765358532766,
+          "type": "reply",
+          "text": "Danke! Ja, wir liefern deutschlandweit.",
+          "byUs": true
+        },
+        {
+          "date": 1764968690178,
+          "type": "comment",
+          "text": "Sieht super aus.",
+          "byUs": false
+        }
+      ]
+    },
+    {
+      "id": "contact_1765401354752_0",
+      "name": "Janosch P.",
+      "platform": "instagram",
+      "interactionCount": 3,
+      "lastInteractionDate": 1765352348881,
+      "sentiment": "negative",
+      "status": "new",
+      "avatarColor": "bg-purple-500",
+      "notes": "Hat nach Preisen gefragt (kritisch)",
+      "interactionHistory": [
+        {
+          "date": 1765352348881,
+          "type": "reply",
+          "text": "Danke! Ja, wir liefern deutschlandweit.",
+          "byUs": true
+        },
+        {
+          "date": 1764735841373,
+          "type": "comment",
+          "text": "Welches Holz ist das?",
+          "byUs": false
+        },
+        {
+          "date": 1764682228455,
+          "type": "comment",
+          "text": "Welches Holz ist das?",
+          "byUs": false
+        },
+        {
+          "date": 1764571929825,
+          "type": "comment",
+          "text": "Liefert ihr auch nach München?",
+          "byUs": false
+        },
+        {
+          "date": 1764485488465,
+          "type": "comment",
+          "text": "Gefällt mir sehr.",
+          "byUs": false
+        }
+      ],
+      "interactedByUs": true
     },
     {
       "id": "contact_1765374697398_4",
@@ -343,18 +680,15 @@
       "sentiment": "negative",
       "status": "new",
       "avatarColor": "bg-yellow-500",
-      "notes": "Hat nach Preisen gefragt (kritisch)"
-    },
-    {
-      "id": "contact_1765376652708_3",
-      "name": "Anna Design",
-      "platform": "instagram",
-      "interactionCount": 4,
-      "lastInteractionDate": 1765337657773,
-      "sentiment": "negative",
-      "status": "new",
-      "avatarColor": "bg-red-500",
-      "notes": "Hat nach Preisen gefragt (kritisch)"
+      "notes": "Hat nach Preisen gefragt (kritisch)",
+      "interactionHistory": [
+        {
+          "date": 1764528739676,
+          "type": "comment",
+          "text": "Was kostet das?",
+          "byUs": false
+        }
+      ]
     }
   ],
   "metamind_bot_comments": [
