@@ -217,6 +217,37 @@
   "metamind_planner_saved_at": "2025-12-10T19:05:22.331Z",
   "metamind_crm_contacts": [
     {
+      "id": "contact_1765370858870_1",
+      "name": "Sarah Connar",
+      "platform": "instagram",
+      "interactionCount": 7,
+      "lastInteractionDate": 1765392043555,
+      "sentiment": "neutral",
+      "status": "new",
+      "avatarColor": "bg-blue-500",
+      "notes": "Interessiert an Eiche",
+      "interactionHistory": [
+        {
+          "date": 1765392043555,
+          "type": "comment",
+          "text": "Sieht super aus.",
+          "byUs": false
+        },
+        {
+          "date": 1765389937057,
+          "type": "reply",
+          "text": "Danke! Ja, wir liefern deutschlandweit.",
+          "byUs": true
+        },
+        {
+          "date": 1764590074372,
+          "type": "comment",
+          "text": "Sieht super aus.",
+          "byUs": false
+        }
+      ]
+    },
+    {
       "id": "contact_1765374697398_6",
       "name": "Julia K.",
       "platform": "instagram",
@@ -239,17 +270,6 @@
       "notes": "Interessiert an Eiche"
     },
     {
-      "id": "contact_1765370858870_1",
-      "name": "Sarah Connar",
-      "platform": "instagram",
-      "interactionCount": 7,
-      "lastInteractionDate": 1765374697398,
-      "sentiment": "neutral",
-      "status": "new",
-      "avatarColor": "bg-blue-500",
-      "notes": "Interessiert an Eiche"
-    },
-    {
       "id": "contact_1765370858870_4",
       "name": "Markus Handwerk",
       "platform": "instagram",
@@ -261,6 +281,49 @@
       "notes": "Interessiert an Eiche"
     },
     {
+      "id": "contact_1765374697398_2",
+      "name": "Sabine Müller",
+      "platform": "instagram",
+      "interactionCount": 5,
+      "lastInteractionDate": 1765365432474,
+      "sentiment": "positive",
+      "status": "lead",
+      "avatarColor": "bg-purple-500",
+      "notes": "Interessiert an Eiche",
+      "interactionHistory": [
+        {
+          "date": 1765365432474,
+          "type": "reply",
+          "text": "Danke! Ja, wir liefern deutschlandweit.",
+          "byUs": true
+        },
+        {
+          "date": 1765220985057,
+          "type": "comment",
+          "text": "Gefällt mir sehr.",
+          "byUs": false
+        },
+        {
+          "date": 1765184349209,
+          "type": "comment",
+          "text": "Gefällt mir sehr.",
+          "byUs": false
+        },
+        {
+          "date": 1765011726813,
+          "type": "comment",
+          "text": "Gefällt mir sehr.",
+          "byUs": false
+        },
+        {
+          "date": 1764940711205,
+          "type": "comment",
+          "text": "Gefällt mir sehr.",
+          "byUs": false
+        }
+      ]
+    },
+    {
       "id": "contact_1765376652708_2",
       "name": "Michael Schmidt",
       "platform": "instagram",
@@ -269,17 +332,6 @@
       "sentiment": "neutral",
       "status": "new",
       "avatarColor": "bg-green-500",
-      "notes": "Interessiert an Eiche"
-    },
-    {
-      "id": "contact_1765374697398_2",
-      "name": "Sabine Müller",
-      "platform": "instagram",
-      "interactionCount": 1,
-      "lastInteractionDate": 1765341962643,
-      "sentiment": "positive",
-      "status": "lead",
-      "avatarColor": "bg-purple-500",
       "notes": "Interessiert an Eiche"
     },
     {
@@ -351,12 +403,13 @@
   },
   "metamind_meta_settings": {
     "pageId": "127510611387317",
-    "accessToken": "EAAMgcIJZBS60BQIESTnPTFZCtGnj5fQWm3q8peNfnpJUUnZAvbp6BDg5iNY1ihJE3DcWzeq8vRHaUZA2q6MZArpw8DD7kX6tUmnv3D5fd3JJ5TTmF4eJh4296rwjS7MblU5j3Nju2bNqZA9ZAYB34drTwylOhxnZAYsoJqRoZCp6NCvl3L7iwflQqZBUF9DcAYXZB8tnjLtYJlJBDCiCzwA",
+    "accessToken": "EAAMgcIJZBS60BQBjrG1pUzry29lILReaeNy4qINEs7hIKuMw3Cvc7ZCkSH2N9CEyxhmNxmUDG9ZAYaj8TlhLrraDUpgxlxmyZBnPsgYjdlgmzrrLfYFZAhjwfXdNKELXSa6Ixc0mI76exjHt5TdSUUJaAreQzx8Xw1VslC6znUtCUsNWzBJOadpP8JBz9ryQTxCsWWT5dKZBVoDwZDZD",
     "pageName": "Die Schreinerei",
     "instagramId": "17841406766703759",
     "instagramName": "dieschreinerei",
     "location": "61239 Ober-Mörlen & Rhein-Main",
     "leonardoApiKey": "FPSX2dd21dc8079943148d6e4314d60ffcc6",
+    "piApiKey": "12d81c42dd49fdafcfeea877868a8d670f97104424806fdf9ae1509dd9244869",
     "weeklySchedule": {
       "active": false,
       "days": [
@@ -368,8 +421,8 @@
       "fixedTime": "18:00"
     },
     "emailReporting": {
-      "active": false,
-      "email": "",
+      "active": true,
+      "email": "dean.ward@amp-brandstifter.de",
       "time": "09:00"
     },
     "github": {
