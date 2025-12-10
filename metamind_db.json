@@ -1,7 +1,218 @@
 {
-  "metamind_planner_items": [],
-  "metamind_planner_topic": "",
-  "metamind_planner_saved_at": "2025-12-10T21:50:08.973Z",
+  "metamind_planner_items": [
+    {
+      "id": "plan_1765403517032_0",
+      "topic": "Vorher-Nachher: Verwandlung einer Küche in ein Japandi-Meisterwerk mit SieMatic.",
+      "date": "2025-12-12T09:00:00.000Z",
+      "status": "pending",
+      "platform": "facebook"
+    },
+    {
+      "id": "plan_1765403517032_1",
+      "topic": "Detailfokus: Die Eleganz minimalistischer Grifflos-Fronten (SieMatic Pure) in einer Japandi-Küche.",
+      "date": "2025-12-14T09:00:00.000Z",
+      "status": "pending",
+      "platform": "facebook"
+    },
+    {
+      "id": "plan_1765403517032_2",
+      "topic": "Kundenprojekt: Eine fertiggestellte Japandi-Küche, perfekt inszeniert für Entspannung und Genuss.",
+      "date": "2025-12-16T09:00:00.000Z",
+      "status": "pending",
+      "platform": "facebook"
+    },
+    {
+      "id": "plan_1765403517032_3",
+      "topic": "Ambiente: Tageslicht vs. Abendstimmung in einer unserer SieMatic Japandi-Küchen.",
+      "date": "2025-12-18T09:00:00.000Z",
+      "status": "pending",
+      "platform": "facebook"
+    },
+    {
+      "id": "plan_1765403517032_4",
+      "topic": "Materialliebe: Natürliche Hölzer und Stein in einem unserer neuesten Projekte.",
+      "date": "2025-12-20T09:00:00.000Z",
+      "status": "pending",
+      "platform": "facebook"
+    },
+    {
+      "id": "plan_1765403517032_5",
+      "topic": "Video-Tour: Virtueller Rundgang durch unsere aktuelle SieMatic Japandi-Musterküche.",
+      "date": "2025-12-22T09:00:00.000Z",
+      "status": "pending",
+      "platform": "facebook"
+    },
+    {
+      "id": "plan_1765403517032_6",
+      "topic": "Stauraum-Wunder: Intelligente Innenorganisation nach SieMatic InteriorDesign – nie wieder Chaos!",
+      "date": "2025-12-24T09:00:00.000Z",
+      "status": "pending",
+      "platform": "facebook"
+    },
+    {
+      "id": "plan_1765403517032_7",
+      "topic": "Kundenstimme: Was unsere Kunden an ihrer neuen Japandi-Küche lieben – direkt aus erster Hand.",
+      "date": "2025-12-26T09:00:00.000Z",
+      "status": "pending",
+      "platform": "facebook"
+    },
+    {
+      "id": "plan_1765403517032_8",
+      "topic": "Farbwelt: Sanfte Erdtöne und Akzente – die Japandi-Farbpalette in Aktion in einer SieMatic Küche.",
+      "date": "2025-12-28T09:00:00.000Z",
+      "status": "pending",
+      "platform": "facebook"
+    },
+    {
+      "id": "plan_1765403517032_9",
+      "topic": "Technologie-Integration: Smart-Home-Lösungen, elegant versteckt im minimalistischen Japandi-Design.",
+      "date": "2025-12-30T09:00:00.000Z",
+      "status": "pending",
+      "platform": "facebook"
+    },
+    {
+      "id": "plan_1765403517032_10",
+      "topic": "Unser Team stellt sich vor: Die Köpfe und Hände hinter euren Traumküchen.",
+      "date": "2026-01-01T09:00:00.000Z",
+      "status": "pending",
+      "platform": "facebook"
+    },
+    {
+      "id": "plan_1765403517032_11",
+      "topic": "Erste Skizzen: Vom Konzept zum 3D-Modell – so entsteht eine Japandi-Küche am Reißbrett.",
+      "date": "2026-01-03T09:00:00.000Z",
+      "status": "pending",
+      "platform": "facebook"
+    },
+    {
+      "id": "plan_1765403517032_12",
+      "topic": "Werkstatt-Einblicke: So entstehen präzise Schreinerarbeiten für eure SieMatic Küche.",
+      "date": "2026-01-05T09:00:00.000Z",
+      "status": "pending",
+      "platform": "facebook"
+    },
+    {
+      "id": "plan_1765403517032_13",
+      "topic": "Materialauswahl: Unser Experte erklärt die Schönheit und Haptik verschiedener SieMatic Oberflächen.",
+      "date": "2026-01-07T09:00:00.000Z",
+      "status": "pending",
+      "platform": "facebook"
+    },
+    {
+      "id": "plan_1765403517032_14",
+      "topic": "Qualitätsprüfung: Warum jedes Detail bei uns zählt, bevor die Küche das Haus verlässt.",
+      "date": "2026-01-09T09:00:00.000Z",
+      "status": "pending",
+      "platform": "facebook"
+    },
+    {
+      "id": "plan_1765403517032_15",
+      "topic": "Montage-Moment: Unser Team beim Aufbau einer SieMatic Küche – Präzision in Perfektion.",
+      "date": "2026-01-11T09:00:00.000Z",
+      "status": "pending",
+      "platform": "facebook"
+    },
+    {
+      "id": "plan_1765403517032_16",
+      "topic": "Japandi 1x1: 5 unverzichtbare Tipps für die Gestaltung einer harmonischen Japandi-Küche.",
+      "date": "2026-01-13T09:00:00.000Z",
+      "status": "pending",
+      "platform": "facebook"
+    },
+    {
+      "id": "plan_1765403517032_17",
+      "topic": "Nachhaltigkeit in der Küche: Welche Materialien passen zum Japandi-Stil und sind umweltfreundlich?",
+      "date": "2026-01-15T09:00:00.000Z",
+      "status": "pending",
+      "platform": "facebook"
+    },
+    {
+      "id": "plan_1765403517032_18",
+      "topic": "SieMatic Trends 2024: Was bedeuten die neuesten Entwicklungen für deine Traumküche?",
+      "date": "2026-01-17T09:00:00.000Z",
+      "status": "pending",
+      "platform": "facebook"
+    },
+    {
+      "id": "plan_1765403517032_19",
+      "topic": "Beleuchtungsideen: Wie man mit Licht die perfekte Japandi-Atmosphäre schafft – Hell und Dunkel im Einklang.",
+      "date": "2026-01-19T09:00:00.000Z",
+      "status": "pending",
+      "platform": "facebook"
+    },
+    {
+      "id": "plan_1765403517032_20",
+      "topic": "Wabi-Sabi in der Küche: Die Schönheit der Unvollkommenheit und natürlichen Alterung bewusst erleben.",
+      "date": "2026-01-21T09:00:00.000Z",
+      "status": "pending",
+      "platform": "facebook"
+    },
+    {
+      "id": "plan_1765403517032_21",
+      "topic": "Pflanzenauswahl: Die besten grünen Akzente für deine Japandi-Küche, die Ruhe ausstrahlen.",
+      "date": "2026-01-23T09:00:00.000Z",
+      "status": "pending",
+      "platform": "facebook"
+    },
+    {
+      "id": "plan_1765403517032_22",
+      "topic": "Küchen-Ergonomie: So planst du eine Küche, die wirklich zu dir passt (mit SieMatic-Features).",
+      "date": "2026-01-25T09:00:00.000Z",
+      "status": "pending",
+      "platform": "facebook"
+    },
+    {
+      "id": "plan_1765403517032_23",
+      "topic": "Pflege von Holz- und Steinoberflächen: Damit deine Küche lange schön und makellos bleibt.",
+      "date": "2026-01-27T09:00:00.000Z",
+      "status": "pending",
+      "platform": "facebook"
+    },
+    {
+      "id": "plan_1765403517032_24",
+      "topic": "Japandi-Küche: Dein Lieblings-Element? (z.B. Holz, klare Linien, offene Regale) Lass es uns wissen!",
+      "date": "2026-01-29T09:00:00.000Z",
+      "status": "pending",
+      "platform": "facebook"
+    },
+    {
+      "id": "plan_1765403517032_25",
+      "topic": "Welches SieMatic Design-Prinzip spricht dich am meisten an: Pure, Urban oder Classic?",
+      "date": "2026-01-31T09:00:00.000Z",
+      "status": "pending",
+      "platform": "facebook"
+    },
+    {
+      "id": "plan_1765403517032_26",
+      "topic": "Kaffee-Ecke oder Tee-Zeremonie: Was ist dir in deiner Küche wichtiger für den perfekten Start in den Tag?",
+      "date": "2026-02-02T09:00:00.000Z",
+      "status": "pending",
+      "platform": "facebook"
+    },
+    {
+      "id": "plan_1765403517032_27",
+      "topic": "Dein größter Küchentraum – beschreibe ihn in 3 Worten! Wir sind gespannt auf deine Vision.",
+      "date": "2026-02-04T09:00:00.000Z",
+      "status": "pending",
+      "platform": "facebook"
+    },
+    {
+      "id": "plan_1765403517032_28",
+      "topic": "Frühlingserwachen: Leichte Deko-Ideen für deine Japandi-Küche, um die Natur hereinzuholen.",
+      "date": "2026-02-06T09:00:00.000Z",
+      "status": "pending",
+      "platform": "facebook"
+    },
+    {
+      "id": "plan_1765403517032_29",
+      "topic": "Herbstliche Gemütlichkeit: So wird deine Japandi-Küche zur Wohlfühloase mit warmen Lichtern und Texturen.",
+      "date": "2026-02-08T09:00:00.000Z",
+      "status": "pending",
+      "platform": "facebook"
+    }
+  ],
+  "metamind_planner_topic": "küchen in scandinafisch japanischen style mit den küchen trends von https://www.siematic.com/de/",
+  "metamind_planner_saved_at": "2025-12-10T21:51:59.036Z",
   "metamind_crm_contacts": [
     {
       "id": "contact_1765374697398_4",
