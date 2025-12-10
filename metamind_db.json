@@ -217,6 +217,128 @@
   "metamind_planner_saved_at": "2025-12-10T21:48:45.725Z",
   "metamind_crm_contacts": [
     {
+      "id": "contact_1765374697398_4",
+      "name": "Peter Lustig",
+      "platform": "facebook",
+      "interactionCount": 6,
+      "lastInteractionDate": 1765402146851,
+      "sentiment": "negative",
+      "status": "new",
+      "avatarColor": "bg-yellow-500",
+      "notes": "Hat nach Preisen gefragt (kritisch)",
+      "interactionHistory": [
+        {
+          "date": 1765402146851,
+          "type": "comment",
+          "text": "Liefert ihr auch nach München?",
+          "byUs": false
+        },
+        {
+          "date": 1765399455796,
+          "type": "reply",
+          "text": "Danke! Ja, wir liefern deutschlandweit.",
+          "byUs": true
+        },
+        {
+          "date": 1765254284578,
+          "type": "comment",
+          "text": "Welches Holz ist das?",
+          "byUs": false
+        },
+        {
+          "date": 1765141411130,
+          "type": "comment",
+          "text": "Welches Holz ist das?",
+          "byUs": false
+        },
+        {
+          "date": 1764730251906,
+          "type": "comment",
+          "text": "Sieht super aus.",
+          "byUs": false
+        },
+        {
+          "date": 1764715990369,
+          "type": "comment",
+          "text": "Liefert ihr auch nach München?",
+          "byUs": false
+        },
+        {
+          "date": 1764528739676,
+          "type": "comment",
+          "text": "Was kostet das?",
+          "byUs": false
+        }
+      ]
+    },
+    {
+      "id": "contact_1765370858870_0",
+      "name": "Thomas Weber",
+      "platform": "facebook",
+      "interactionCount": 6,
+      "lastInteractionDate": 1765401314349,
+      "sentiment": "neutral",
+      "status": "new",
+      "avatarColor": "bg-blue-500",
+      "notes": "Interessiert an Eiche",
+      "interactionHistory": [
+        {
+          "date": 1765401314349,
+          "type": "reply",
+          "text": "Danke! Ja, wir liefern deutschlandweit.",
+          "byUs": true
+        },
+        {
+          "date": 1765388463791,
+          "type": "reply",
+          "text": "Danke! Ja, wir liefern deutschlandweit.",
+          "byUs": true
+        },
+        {
+          "date": 1765368627978,
+          "type": "reply",
+          "text": "Danke! Ja, wir liefern deutschlandweit.",
+          "byUs": true
+        },
+        {
+          "date": 1765006587849,
+          "type": "comment",
+          "text": "Sieht super aus.",
+          "byUs": false
+        },
+        {
+          "date": 1764997978990,
+          "type": "comment",
+          "text": "Liefert ihr auch nach München?",
+          "byUs": false
+        },
+        {
+          "date": 1764997170476,
+          "type": "comment",
+          "text": "Sieht super aus.",
+          "byUs": false
+        },
+        {
+          "date": 1764896918790,
+          "type": "comment",
+          "text": "Gefällt mir sehr.",
+          "byUs": false
+        },
+        {
+          "date": 1764707145242,
+          "type": "comment",
+          "text": "Liefert ihr auch nach München?",
+          "byUs": false
+        },
+        {
+          "date": 1764515154023,
+          "type": "comment",
+          "text": "Gefällt mir sehr.",
+          "byUs": false
+        }
+      ]
+    },
+    {
       "id": "contact_1765370858870_1",
       "name": "Sarah Connar",
       "platform": "instagram",
@@ -329,55 +451,6 @@
       "opportunityAnalysis": "Der Kunde zeigt wiederholt hohes Interesse, fragt aktiv nach Preisen und erkundigt sich nach Liefermodalitäten. Dies signalisiert eine sehr hohe Kaufbereitschaft und sollte umgehend verfolgt werden. -> Tipp: Ein detailliertes Angebot für das angefragte Produkt/Modell vorbereiten und direkt per DM senden."
     },
     {
-      "id": "contact_1765370858870_0",
-      "name": "Thomas Weber",
-      "platform": "facebook",
-      "interactionCount": 6,
-      "lastInteractionDate": 1765388463791,
-      "sentiment": "neutral",
-      "status": "new",
-      "avatarColor": "bg-blue-500",
-      "notes": "Interessiert an Eiche",
-      "interactionHistory": [
-        {
-          "date": 1765388463791,
-          "type": "reply",
-          "text": "Danke! Ja, wir liefern deutschlandweit.",
-          "byUs": true
-        },
-        {
-          "date": 1765368627978,
-          "type": "reply",
-          "text": "Danke! Ja, wir liefern deutschlandweit.",
-          "byUs": true
-        },
-        {
-          "date": 1765006587849,
-          "type": "comment",
-          "text": "Sieht super aus.",
-          "byUs": false
-        },
-        {
-          "date": 1764997170476,
-          "type": "comment",
-          "text": "Sieht super aus.",
-          "byUs": false
-        },
-        {
-          "date": 1764896918790,
-          "type": "comment",
-          "text": "Gefällt mir sehr.",
-          "byUs": false
-        },
-        {
-          "date": 1764515154023,
-          "type": "comment",
-          "text": "Gefällt mir sehr.",
-          "byUs": false
-        }
-      ]
-    },
-    {
       "id": "contact_1765374697398_6",
       "name": "Julia K.",
       "platform": "instagram",
@@ -392,6 +465,12 @@
           "date": 1765213976312,
           "type": "comment",
           "text": "Liefert ihr auch nach München?",
+          "byUs": false
+        },
+        {
+          "date": 1765190870001,
+          "type": "comment",
+          "text": "Gefällt mir sehr.",
           "byUs": false
         },
         {
@@ -438,6 +517,12 @@
           "byUs": true
         },
         {
+          "date": 1765253394336,
+          "type": "comment",
+          "text": "Welches Holz ist das?",
+          "byUs": false
+        },
+        {
           "date": 1765220985057,
           "type": "comment",
           "text": "Gefällt mir sehr.",
@@ -474,9 +559,15 @@
           "byUs": false
         },
         {
-          "date": 1764429914381,
+          "date": 1764644780517,
           "type": "comment",
-          "text": "Was kostet das?",
+          "text": "Toller Tisch!",
+          "byUs": false
+        },
+        {
+          "date": 1764640681424,
+          "type": "comment",
+          "text": "Liefert ihr auch nach München?",
           "byUs": false
         }
       ]
@@ -523,6 +614,12 @@
           "byUs": false
         },
         {
+          "date": 1764825658663,
+          "type": "comment",
+          "text": "Toller Tisch!",
+          "byUs": false
+        },
+        {
           "date": 1764811679543,
           "type": "comment",
           "text": "Toller Tisch!",
@@ -541,15 +638,9 @@
           "byUs": false
         },
         {
-          "date": 1764612448234,
+          "date": 1764653195565,
           "type": "comment",
-          "text": "Liefert ihr auch nach München?",
-          "byUs": false
-        },
-        {
-          "date": 1764498246218,
-          "type": "comment",
-          "text": "Was kostet das?",
+          "text": "Toller Tisch!",
           "byUs": false
         }
       ],
@@ -573,9 +664,33 @@
           "byUs": false
         },
         {
+          "date": 1765301990772,
+          "type": "comment",
+          "text": "Liefert ihr auch nach München?",
+          "byUs": false
+        },
+        {
+          "date": 1765031045224,
+          "type": "comment",
+          "text": "Liefert ihr auch nach München?",
+          "byUs": false
+        },
+        {
           "date": 1765013276331,
           "type": "comment",
           "text": "Was kostet das?",
+          "byUs": false
+        },
+        {
+          "date": 1764919919519,
+          "type": "comment",
+          "text": "Welches Holz ist das?",
+          "byUs": false
+        },
+        {
+          "date": 1764917749972,
+          "type": "comment",
+          "text": "Gefällt mir sehr.",
           "byUs": false
         },
         {
@@ -626,6 +741,12 @@
           "type": "comment",
           "text": "Sieht super aus.",
           "byUs": false
+        },
+        {
+          "date": 1764753326847,
+          "type": "comment",
+          "text": "Toller Tisch!",
+          "byUs": false
         }
       ]
     },
@@ -647,9 +768,27 @@
           "byUs": true
         },
         {
+          "date": 1765240434592,
+          "type": "comment",
+          "text": "Welches Holz ist das?",
+          "byUs": false
+        },
+        {
+          "date": 1765127054861,
+          "type": "comment",
+          "text": "Was kostet das?",
+          "byUs": false
+        },
+        {
           "date": 1764735841373,
           "type": "comment",
           "text": "Welches Holz ist das?",
+          "byUs": false
+        },
+        {
+          "date": 1764695816543,
+          "type": "comment",
+          "text": "Gefällt mir sehr.",
           "byUs": false
         },
         {
@@ -672,25 +811,6 @@
         }
       ],
       "interactedByUs": true
-    },
-    {
-      "id": "contact_1765374697398_4",
-      "name": "Peter Lustig",
-      "platform": "facebook",
-      "interactionCount": 1,
-      "lastInteractionDate": 1765339749877,
-      "sentiment": "negative",
-      "status": "new",
-      "avatarColor": "bg-yellow-500",
-      "notes": "Hat nach Preisen gefragt (kritisch)",
-      "interactionHistory": [
-        {
-          "date": 1764528739676,
-          "type": "comment",
-          "text": "Was kostet das?",
-          "byUs": false
-        }
-      ]
     }
   ],
   "metamind_bot_comments": [
