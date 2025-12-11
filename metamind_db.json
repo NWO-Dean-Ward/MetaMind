@@ -1099,6 +1099,12 @@
       "notes": "Hat nach Preisen gefragt (kritisch)",
       "interactionHistory": [
         {
+          "date": 1765438858612,
+          "type": "reply",
+          "text": "Hi, es ist eiche geölt.",
+          "byUs": true
+        },
+        {
           "date": 1765382455082,
           "type": "comment",
           "text": "Welches Holz ist das genau? Ist das geölt?",
@@ -1147,7 +1153,7 @@
           "byUs": false
         }
       ],
-      "interactedByUs": false,
+      "interactedByUs": true,
       "location": "Wiesbaden",
       "jobTitle": "Bauträger",
       "lastPostImage": "https://scontent-fra3-1.cdninstagram.com/v/t51.82787-15/598335214_18337956856225557_5932246700648997788_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=hmcG7E4UU60Q7kNvwFKVSn6&_nc_oc=AdncDJwlQB8emSRriQApSZLrXkdRcaxGncOhrZ1FuRGLpHgwyImZ2dykD-QeZks-VJqavgNDRCa0w8TamVSVKVIU&_nc_zt=23&_nc_ht=scontent-fra3-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=PrBTLIhYP6aAY94fMrouww&oh=00_AfnQPlI5KA58nG3ZhiFyeI5yeXsRFqB8ABEdwRXct2ThIg&oe=6940337A"
