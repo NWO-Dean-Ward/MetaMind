@@ -747,6 +747,12 @@
       "notes": "Hat nach Preisen gefragt (kritisch)",
       "interactionHistory": [
         {
+          "date": 1765438716912,
+          "type": "reply",
+          "text": "ist möglich das wir nach München liefern. Wir haben einen grossen umbau im Februar in München",
+          "byUs": true
+        },
+        {
           "date": 1765402146851,
           "type": "comment",
           "text": "Liefert ihr auch nach München?",
@@ -808,7 +814,8 @@
         "estimatedBudget": "Unbekannt",
         "personalityType": "Neutral",
         "buyingIntent": "Low"
-      }
+      },
+      "interactedByUs": true
     },
     {
       "id": "contact_1765374697398_2",
