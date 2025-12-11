@@ -829,6 +829,12 @@
       "notes": "Interessiert an Eiche",
       "interactionHistory": [
         {
+          "date": 1765438760463,
+          "type": "reply",
+          "text": "Das ist Eiche",
+          "byUs": true
+        },
+        {
           "date": 1765400770345,
           "type": "reply",
           "text": "Danke! Ja, wir liefern deutschlandweit.",
@@ -896,7 +902,8 @@
         "estimatedBudget": "Unbekannt",
         "personalityType": "Neutral",
         "buyingIntent": "Low"
-      }
+      },
+      "interactedByUs": true
     },
     {
       "id": "contact_1765376652708_3",
