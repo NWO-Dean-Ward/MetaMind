@@ -451,6 +451,12 @@
       "notes": "Interessiert an Eiche",
       "interactionHistory": [
         {
+          "date": 1765439874323,
+          "type": "reply",
+          "text": "Das ist Eiche geölt ",
+          "byUs": true
+        },
+        {
           "date": 1765421516171,
           "type": "reply",
           "text": "Danke! Ja, wir liefern deutschlandweit. Ich schicke dir eine DM.",
@@ -523,7 +529,8 @@
           "byUs": false
         }
       ],
-      "lastPostImage": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/597873348_1467615428043583_5124233277975024668_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=BnX0d_qohrgQ7kNvwEU3n5r&_nc_oc=Admvu7waBFNcScMCSidb-ls-0XXQ9GVacHfEOBasogNOmRbwGKkglFCH4qJKdAeTTDEivmDHVlwEwe4S2_tA9T9W&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=h92K14gZ6cC0LEGlUzQxrQ&_nc_tpa=Q5bMBQFdseuyppoqlcvMNlINqoRcpwzkDWumHrL3xE_XDnjt9Q6UU26CV8UpeaFLPie_cF4nCbh7sUmf&oh=00_AflJov2Xc1WNjHcpdP6OMPZTZhVglhErYDnpfMVpTmn22A&oe=694037E7"
+      "lastPostImage": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/597873348_1467615428043583_5124233277975024668_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=BnX0d_qohrgQ7kNvwEU3n5r&_nc_oc=Admvu7waBFNcScMCSidb-ls-0XXQ9GVacHfEOBasogNOmRbwGKkglFCH4qJKdAeTTDEivmDHVlwEwe4S2_tA9T9W&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=h92K14gZ6cC0LEGlUzQxrQ&_nc_tpa=Q5bMBQFdseuyppoqlcvMNlINqoRcpwzkDWumHrL3xE_XDnjt9Q6UU26CV8UpeaFLPie_cF4nCbh7sUmf&oh=00_AflJov2Xc1WNjHcpdP6OMPZTZhVglhErYDnpfMVpTmn22A&oe=694037E7",
+      "interactedByUs": true
     },
     {
       "id": "contact_1765401354752_1",
