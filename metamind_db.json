@@ -211,8 +211,14 @@
       "platform": "facebook"
     }
   ],
-  "metamind_planner_topic": "Küchen in Skandinavisch japanischen style mit den küchen trends von https://www.siematic.com/de/",
-  "metamind_planner_saved_at": "2025-12-10T21:53:53.365Z",
+  "metamind_planner_topic": [
+    "Küchen in Skandinavisch japanischen style mit den küchen trends von https://www.siematic.com/de/",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "metamind_planner_saved_at": "2025-12-11T07:12:13.442Z",
   "metamind_crm_contacts": [
     {
       "id": "contact_1765374697398_4",
