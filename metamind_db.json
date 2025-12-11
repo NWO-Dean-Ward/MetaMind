@@ -356,6 +356,12 @@
       "notes": "Interessiert an Eiche",
       "interactionHistory": [
         {
+          "date": 1765438900729,
+          "type": "reply",
+          "text": "Wir starten bei ca. 2200€",
+          "byUs": true
+        },
+        {
           "date": 1765422627449,
           "type": "reply",
           "text": "Danke! Ja, wir liefern deutschlandweit. Ich schicke dir eine DM.",
@@ -430,7 +436,8 @@
       ],
       "opportunityScore": 92,
       "opportunityAnalysis": "Der Kunde zeigt wiederholt hohes Interesse, fragt aktiv nach Preisen und erkundigt sich nach Liefermodalitäten. Dies signalisiert eine sehr hohe Kaufbereitschaft und sollte umgehend verfolgt werden. -> Tipp: Ein detailliertes Angebot für das angefragte Produkt/Modell vorbereiten und direkt per DM senden.",
-      "lastPostImage": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/597827388_1467467654725027_340188974384251840_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=uwz7vy5SZUMQ7kNvwFU1YhT&_nc_oc=Adnzlcgz96zfhR5ZZzswg4q3cOu6E2iLteMO8tvhtKCXuUCQC5YJZgIOJ8HGI51O7eXPOSIYY9SI8UuwJHjw8hcT&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=h92K14gZ6cC0LEGlUzQxrQ&_nc_tpa=Q5bMBQGJiWVtk36Nd4fqFDXMxPxpM8My4oo3AveENC4lbqXB8sxHp82Av6uFsZSNEtOLvo--LJd6AXw6&oh=00_AflvHquF-o4GemBbZmFkuZeTOyylDjZx4Rbw5Y4oYcS-UA&oe=6940588F"
+      "lastPostImage": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/597827388_1467467654725027_340188974384251840_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=uwz7vy5SZUMQ7kNvwFU1YhT&_nc_oc=Adnzlcgz96zfhR5ZZzswg4q3cOu6E2iLteMO8tvhtKCXuUCQC5YJZgIOJ8HGI51O7eXPOSIYY9SI8UuwJHjw8hcT&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=h92K14gZ6cC0LEGlUzQxrQ&_nc_tpa=Q5bMBQGJiWVtk36Nd4fqFDXMxPxpM8My4oo3AveENC4lbqXB8sxHp82Av6uFsZSNEtOLvo--LJd6AXw6&oh=00_AflvHquF-o4GemBbZmFkuZeTOyylDjZx4Rbw5Y4oYcS-UA&oe=6940588F",
+      "interactedByUs": true
     },
     {
       "id": "contact_1765374697398_6",
