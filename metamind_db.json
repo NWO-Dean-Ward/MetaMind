@@ -251,6 +251,374 @@
   "metamind_planner_saved_at": "2025-12-11T07:14:28.815Z",
   "metamind_crm_contacts": [
     {
+      "id": "contact_1765370858870_4",
+      "name": "Markus Handwerk",
+      "platform": "instagram",
+      "interactionCount": 9,
+      "lastInteractionDate": 1765422627449,
+      "sentiment": "positive",
+      "status": "fan",
+      "avatarColor": "bg-pink-500",
+      "notes": "Interessiert an Eiche",
+      "interactionHistory": [
+        {
+          "date": 1765422627449,
+          "type": "reply",
+          "text": "Danke! Ja, wir liefern deutschlandweit. Ich schicke dir eine DM.",
+          "byUs": true
+        },
+        {
+          "date": 1765392732764,
+          "type": "reply",
+          "text": "Danke! Ja, wir liefern deutschlandweit.",
+          "byUs": true
+        },
+        {
+          "date": 1765388766302,
+          "type": "reply",
+          "text": "Danke! Ja, wir liefern deutschlandweit.",
+          "byUs": true
+        },
+        {
+          "date": 1765246436362,
+          "type": "comment",
+          "text": "Toller Tisch! Was kostet so eine Maßanfertigung in Eiche?",
+          "byUs": false
+        },
+        {
+          "date": 1765188693890,
+          "type": "comment",
+          "text": "Fantastische Arbeit, wie immer.",
+          "byUs": false
+        },
+        {
+          "date": 1765011171076,
+          "type": "comment",
+          "text": "Toller Tisch!",
+          "byUs": false
+        },
+        {
+          "date": 1765007052570,
+          "type": "comment",
+          "text": "Sieht super aus.",
+          "byUs": false
+        },
+        {
+          "date": 1765000302465,
+          "type": "comment",
+          "text": "Welches Holz ist das genau? Ist das geölt?",
+          "byUs": false
+        },
+        {
+          "date": 1764981175770,
+          "type": "comment",
+          "text": "Was kostet das?",
+          "byUs": false
+        },
+        {
+          "date": 1764943412703,
+          "type": "comment",
+          "text": "Sieht super aus.",
+          "byUs": false
+        }
+      ],
+      "opportunityScore": 92,
+      "opportunityAnalysis": "Der Kunde zeigt wiederholt hohes Interesse, fragt aktiv nach Preisen und erkundigt sich nach Liefermodalitäten. Dies signalisiert eine sehr hohe Kaufbereitschaft und sollte umgehend verfolgt werden. -> Tipp: Ein detailliertes Angebot für das angefragte Produkt/Modell vorbereiten und direkt per DM senden."
+    },
+    {
+      "id": "contact_1765401354752_1",
+      "name": "Lisa Berg",
+      "platform": "instagram",
+      "interactionCount": 6,
+      "lastInteractionDate": 1765421105944,
+      "sentiment": "negative",
+      "status": "new",
+      "avatarColor": "bg-yellow-500",
+      "notes": "Hat nach Preisen gefragt (kritisch)",
+      "interactionHistory": [
+        {
+          "date": 1765421105944,
+          "type": "reply",
+          "text": "Danke! Ja, wir liefern deutschlandweit. Ich schicke dir eine DM.",
+          "byUs": true
+        },
+        {
+          "date": 1765366027483,
+          "type": "reply",
+          "text": "Danke! Ja, wir liefern deutschlandweit.",
+          "byUs": true
+        },
+        {
+          "date": 1765361251890,
+          "type": "reply",
+          "text": "Danke! Ja, wir liefern deutschlandweit.",
+          "byUs": true
+        },
+        {
+          "date": 1765258299155,
+          "type": "comment",
+          "text": "Toller Tisch!",
+          "byUs": false
+        },
+        {
+          "date": 1765223028318,
+          "type": "comment",
+          "text": "Sieht super aus. Liefert ihr auch nach München?",
+          "byUs": false
+        },
+        {
+          "date": 1765208629727,
+          "type": "comment",
+          "text": "Gefällt mir sehr.",
+          "byUs": false
+        },
+        {
+          "date": 1765185941086,
+          "type": "comment",
+          "text": "Sieht super aus.",
+          "byUs": false
+        },
+        {
+          "date": 1765161758155,
+          "type": "comment",
+          "text": "Welches Holz ist das genau? Ist das geölt?",
+          "byUs": false
+        },
+        {
+          "date": 1765149447018,
+          "type": "comment",
+          "text": "Sieht super aus.",
+          "byUs": false
+        },
+        {
+          "date": 1765110160019,
+          "type": "comment",
+          "text": "Sieht super aus.",
+          "byUs": false
+        }
+      ],
+      "interactedByUs": true
+    },
+    {
+      "id": "contact_1765370858870_0",
+      "name": "Thomas Weber",
+      "platform": "facebook",
+      "interactionCount": 6,
+      "lastInteractionDate": 1765415051218,
+      "sentiment": "neutral",
+      "status": "new",
+      "avatarColor": "bg-blue-500",
+      "notes": "Interessiert an Eiche",
+      "interactionHistory": [
+        {
+          "date": 1765415051218,
+          "type": "reply",
+          "text": "Danke! Ja, wir liefern deutschlandweit. Ich schicke dir eine DM.",
+          "byUs": true
+        },
+        {
+          "date": 1765401314349,
+          "type": "reply",
+          "text": "Danke! Ja, wir liefern deutschlandweit.",
+          "byUs": true
+        },
+        {
+          "date": 1765388463791,
+          "type": "reply",
+          "text": "Danke! Ja, wir liefern deutschlandweit.",
+          "byUs": true
+        },
+        {
+          "date": 1765368627978,
+          "type": "reply",
+          "text": "Danke! Ja, wir liefern deutschlandweit.",
+          "byUs": true
+        },
+        {
+          "date": 1765356336423,
+          "type": "reply",
+          "text": "Danke! Ja, wir liefern deutschlandweit.",
+          "byUs": true
+        },
+        {
+          "date": 1765308920505,
+          "type": "comment",
+          "text": "Welches Holz ist das genau? Ist das geölt?",
+          "byUs": false
+        },
+        {
+          "date": 1765068054061,
+          "type": "comment",
+          "text": "Toller Tisch! Was kostet so eine Maßanfertigung in Eiche?",
+          "byUs": false
+        },
+        {
+          "date": 1765035849673,
+          "type": "comment",
+          "text": "Sieht super aus.",
+          "byUs": false
+        },
+        {
+          "date": 1765006587849,
+          "type": "comment",
+          "text": "Sieht super aus.",
+          "byUs": false
+        },
+        {
+          "date": 1764997978990,
+          "type": "comment",
+          "text": "Liefert ihr auch nach München?",
+          "byUs": false
+        }
+      ]
+    },
+    {
+      "id": "contact_1765374697398_6",
+      "name": "Julia K.",
+      "platform": "instagram",
+      "interactionCount": 6,
+      "lastInteractionDate": 1765410304095,
+      "sentiment": "positive",
+      "status": "lead",
+      "avatarColor": "bg-yellow-500",
+      "notes": "Interessiert an Eiche",
+      "interactionHistory": [
+        {
+          "date": 1765410304095,
+          "type": "reply",
+          "text": "Danke! Ja, wir liefern deutschlandweit. Ich schicke dir eine DM.",
+          "byUs": true
+        },
+        {
+          "date": 1765373236441,
+          "type": "reply",
+          "text": "Danke! Ja, wir liefern deutschlandweit.",
+          "byUs": true
+        },
+        {
+          "date": 1765262130088,
+          "type": "comment",
+          "text": "Sieht super aus.",
+          "byUs": false
+        },
+        {
+          "date": 1765256210382,
+          "type": "comment",
+          "text": "Welches Holz ist das?",
+          "byUs": false
+        },
+        {
+          "date": 1765213976312,
+          "type": "comment",
+          "text": "Liefert ihr auch nach München?",
+          "byUs": false
+        },
+        {
+          "date": 1765190870001,
+          "type": "comment",
+          "text": "Gefällt mir sehr.",
+          "byUs": false
+        },
+        {
+          "date": 1765071258518,
+          "type": "comment",
+          "text": "Welches Holz ist das genau? Ist das geölt?",
+          "byUs": false
+        },
+        {
+          "date": 1765068040870,
+          "type": "comment",
+          "text": "Welches Holz ist das?",
+          "byUs": false
+        },
+        {
+          "date": 1765066580028,
+          "type": "comment",
+          "text": "Liefert ihr auch nach München?",
+          "byUs": false
+        },
+        {
+          "date": 1765019651285,
+          "type": "comment",
+          "text": "Sieht super aus.",
+          "byUs": false
+        }
+      ]
+    },
+    {
+      "id": "contact_1765376652708_2",
+      "name": "Michael Schmidt",
+      "platform": "instagram",
+      "interactionCount": 9,
+      "lastInteractionDate": 1765402218203,
+      "sentiment": "neutral",
+      "status": "new",
+      "avatarColor": "bg-green-500",
+      "notes": "Interessiert an Eiche",
+      "interactionHistory": [
+        {
+          "date": 1765402218203,
+          "type": "reply",
+          "text": "Danke! Ja, wir liefern deutschlandweit. Ich schicke dir eine DM.",
+          "byUs": true
+        },
+        {
+          "date": 1765358488898,
+          "type": "reply",
+          "text": "Danke! Ja, wir liefern deutschlandweit.",
+          "byUs": true
+        },
+        {
+          "date": 1765337880914,
+          "type": "comment",
+          "text": "Sieht super aus.",
+          "byUs": false
+        },
+        {
+          "date": 1765301990772,
+          "type": "comment",
+          "text": "Liefert ihr auch nach München?",
+          "byUs": false
+        },
+        {
+          "date": 1765288646954,
+          "type": "comment",
+          "text": "Gefällt mir sehr.",
+          "byUs": false
+        },
+        {
+          "date": 1765241421966,
+          "type": "comment",
+          "text": "Toller Tisch!",
+          "byUs": false
+        },
+        {
+          "date": 1765143056429,
+          "type": "comment",
+          "text": "Sieht super aus. Liefert ihr auch nach München?",
+          "byUs": false
+        },
+        {
+          "date": 1765031045224,
+          "type": "comment",
+          "text": "Liefert ihr auch nach München?",
+          "byUs": false
+        },
+        {
+          "date": 1765013276331,
+          "type": "comment",
+          "text": "Was kostet das?",
+          "byUs": false
+        },
+        {
+          "date": 1764960876517,
+          "type": "comment",
+          "text": "Welches Holz ist das?",
+          "byUs": false
+        }
+      ]
+    },
+    {
       "id": "contact_1765374697398_4",
       "name": "Peter Lustig",
       "platform": "facebook",
@@ -318,79 +686,6 @@
       ]
     },
     {
-      "id": "contact_1765370858870_0",
-      "name": "Thomas Weber",
-      "platform": "facebook",
-      "interactionCount": 6,
-      "lastInteractionDate": 1765401314349,
-      "sentiment": "neutral",
-      "status": "new",
-      "avatarColor": "bg-blue-500",
-      "notes": "Interessiert an Eiche",
-      "interactionHistory": [
-        {
-          "date": 1765401314349,
-          "type": "reply",
-          "text": "Danke! Ja, wir liefern deutschlandweit.",
-          "byUs": true
-        },
-        {
-          "date": 1765388463791,
-          "type": "reply",
-          "text": "Danke! Ja, wir liefern deutschlandweit.",
-          "byUs": true
-        },
-        {
-          "date": 1765368627978,
-          "type": "reply",
-          "text": "Danke! Ja, wir liefern deutschlandweit.",
-          "byUs": true
-        },
-        {
-          "date": 1765356336423,
-          "type": "reply",
-          "text": "Danke! Ja, wir liefern deutschlandweit.",
-          "byUs": true
-        },
-        {
-          "date": 1765035849673,
-          "type": "comment",
-          "text": "Sieht super aus.",
-          "byUs": false
-        },
-        {
-          "date": 1765006587849,
-          "type": "comment",
-          "text": "Sieht super aus.",
-          "byUs": false
-        },
-        {
-          "date": 1764997978990,
-          "type": "comment",
-          "text": "Liefert ihr auch nach München?",
-          "byUs": false
-        },
-        {
-          "date": 1764997170476,
-          "type": "comment",
-          "text": "Sieht super aus.",
-          "byUs": false
-        },
-        {
-          "date": 1764948278510,
-          "type": "comment",
-          "text": "Welches Holz ist das?",
-          "byUs": false
-        },
-        {
-          "date": 1764896918790,
-          "type": "comment",
-          "text": "Gefällt mir sehr.",
-          "byUs": false
-        }
-      ]
-    },
-    {
       "id": "contact_1765374697398_2",
       "name": "Sabine Müller",
       "platform": "instagram",
@@ -418,6 +713,18 @@
           "type": "reply",
           "text": "Danke! Ja, wir liefern deutschlandweit.",
           "byUs": true
+        },
+        {
+          "date": 1765347311288,
+          "type": "comment",
+          "text": "Welches Holz ist das genau? Ist das geölt?",
+          "byUs": false
+        },
+        {
+          "date": 1765284818081,
+          "type": "comment",
+          "text": "Fantastische Arbeit, wie immer.",
+          "byUs": false
         },
         {
           "date": 1765253394336,
@@ -448,18 +755,6 @@
           "type": "comment",
           "text": "Was kostet das?",
           "byUs": false
-        },
-        {
-          "date": 1765011726813,
-          "type": "comment",
-          "text": "Gefällt mir sehr.",
-          "byUs": false
-        },
-        {
-          "date": 1765000860218,
-          "type": "comment",
-          "text": "Welches Holz ist das?",
-          "byUs": false
         }
       ]
     },
@@ -487,10 +782,22 @@
           "byUs": false
         },
         {
+          "date": 1765369797770,
+          "type": "comment",
+          "text": "Fantastische Arbeit, wie immer.",
+          "byUs": false
+        },
+        {
           "date": 1765358532766,
           "type": "reply",
           "text": "Danke! Ja, wir liefern deutschlandweit.",
           "byUs": true
+        },
+        {
+          "date": 1765268672352,
+          "type": "comment",
+          "text": "Fantastische Arbeit, wie immer.",
+          "byUs": false
         },
         {
           "date": 1765038348259,
@@ -511,93 +818,18 @@
           "byUs": false
         },
         {
+          "date": 1764712565664,
+          "type": "comment",
+          "text": "Fantastische Arbeit, wie immer.",
+          "byUs": false
+        },
+        {
           "date": 1764536278572,
           "type": "comment",
           "text": "Welches Holz ist das?",
           "byUs": false
-        },
-        {
-          "date": 1764449712912,
-          "type": "comment",
-          "text": "Liefert ihr auch nach München?",
-          "byUs": false
-        },
-        {
-          "date": 1764440335317,
-          "type": "comment",
-          "text": "Sieht super aus.",
-          "byUs": false
         }
       ]
-    },
-    {
-      "id": "contact_1765370858870_4",
-      "name": "Markus Handwerk",
-      "platform": "instagram",
-      "interactionCount": 9,
-      "lastInteractionDate": 1765392732764,
-      "sentiment": "positive",
-      "status": "fan",
-      "avatarColor": "bg-pink-500",
-      "notes": "Interessiert an Eiche",
-      "interactionHistory": [
-        {
-          "date": 1765392732764,
-          "type": "reply",
-          "text": "Danke! Ja, wir liefern deutschlandweit.",
-          "byUs": true
-        },
-        {
-          "date": 1765388766302,
-          "type": "reply",
-          "text": "Danke! Ja, wir liefern deutschlandweit.",
-          "byUs": true
-        },
-        {
-          "date": 1765011171076,
-          "type": "comment",
-          "text": "Toller Tisch!",
-          "byUs": false
-        },
-        {
-          "date": 1765007052570,
-          "type": "comment",
-          "text": "Sieht super aus.",
-          "byUs": false
-        },
-        {
-          "date": 1764981175770,
-          "type": "comment",
-          "text": "Was kostet das?",
-          "byUs": false
-        },
-        {
-          "date": 1764943412703,
-          "type": "comment",
-          "text": "Sieht super aus.",
-          "byUs": false
-        },
-        {
-          "date": 1764931985858,
-          "type": "comment",
-          "text": "Was kostet das?",
-          "byUs": false
-        },
-        {
-          "date": 1764475229170,
-          "type": "comment",
-          "text": "Liefert ihr auch nach München?",
-          "byUs": false
-        },
-        {
-          "date": 1764404798299,
-          "type": "comment",
-          "text": "Sieht super aus.",
-          "byUs": false
-        }
-      ],
-      "opportunityScore": 92,
-      "opportunityAnalysis": "Der Kunde zeigt wiederholt hohes Interesse, fragt aktiv nach Preisen und erkundigt sich nach Liefermodalitäten. Dies signalisiert eine sehr hohe Kaufbereitschaft und sollte umgehend verfolgt werden. -> Tipp: Ein detailliertes Angebot für das angefragte Produkt/Modell vorbereiten und direkt per DM senden."
     },
     {
       "id": "contact_1765370858870_1",
@@ -614,6 +846,12 @@
           "date": 1765392043555,
           "type": "comment",
           "text": "Sieht super aus.",
+          "byUs": false
+        },
+        {
+          "date": 1765390979183,
+          "type": "comment",
+          "text": "Ich suche genau so etwas für mein neues Büro.",
           "byUs": false
         },
         {
@@ -653,24 +891,70 @@
           "byUs": false
         },
         {
+          "date": 1764964484999,
+          "type": "comment",
+          "text": "Toller Tisch! Was kostet so eine Maßanfertigung in Eiche?",
+          "byUs": false
+        },
+        {
           "date": 1764939667364,
           "type": "comment",
           "text": "Gefällt mir sehr.",
           "byUs": false
-        },
-        {
-          "date": 1764917339013,
-          "type": "comment",
-          "text": "Gefällt mir sehr.",
-          "byUs": false
-        },
-        {
-          "date": 1764832663918,
-          "type": "comment",
-          "text": "Sieht super aus.",
-          "byUs": false
         }
       ]
+    },
+    {
+      "id": "contact_1765437295054_0",
+      "name": "Interiors by Sophie",
+      "platform": "instagram",
+      "interactionCount": 3,
+      "lastInteractionDate": 1765382455082,
+      "sentiment": "negative",
+      "status": "new",
+      "avatarColor": "bg-red-500",
+      "notes": "Hat nach Preisen gefragt (kritisch)",
+      "interactionHistory": [
+        {
+          "date": 1765382455082,
+          "type": "comment",
+          "text": "Welches Holz ist das genau? Ist das geölt?",
+          "byUs": false
+        },
+        {
+          "date": 1765203875859,
+          "type": "comment",
+          "text": "Welches Holz ist das genau? Ist das geölt?",
+          "byUs": false
+        },
+        {
+          "date": 1765019676773,
+          "type": "comment",
+          "text": "Sieht super aus. Liefert ihr auch nach München?",
+          "byUs": false
+        },
+        {
+          "date": 1764888976112,
+          "type": "comment",
+          "text": "Welches Holz ist das genau? Ist das geölt?",
+          "byUs": false
+        },
+        {
+          "date": 1764505385863,
+          "type": "comment",
+          "text": "Toller Tisch! Was kostet so eine Maßanfertigung in Eiche?",
+          "byUs": false
+        },
+        {
+          "date": 1764496505115,
+          "type": "comment",
+          "text": "Sieht super aus. Liefert ihr auch nach München?",
+          "byUs": false
+        }
+      ],
+      "interactedByUs": false,
+      "location": "Wiesbaden",
+      "jobTitle": "Bauträger"
     },
     {
       "id": "contact_1765401354752_0",
@@ -694,6 +978,12 @@
           "type": "reply",
           "text": "Danke! Ja, wir liefern deutschlandweit.",
           "byUs": true
+        },
+        {
+          "date": 1765348006016,
+          "type": "comment",
+          "text": "Ich suche genau so etwas für mein neues Büro.",
+          "byUs": false
         },
         {
           "date": 1765240434592,
@@ -726,245 +1016,123 @@
           "byUs": false
         },
         {
+          "date": 1764903330681,
+          "type": "comment",
+          "text": "Ich suche genau so etwas für mein neues Büro.",
+          "byUs": false
+        },
+        {
           "date": 1764865389133,
           "type": "comment",
           "text": "Gefällt mir sehr.",
           "byUs": false
-        },
-        {
-          "date": 1764817501581,
-          "type": "comment",
-          "text": "Toller Tisch!",
-          "byUs": false
-        },
-        {
-          "date": 1764735841373,
-          "type": "comment",
-          "text": "Welches Holz ist das?",
-          "byUs": false
         }
       ],
       "interactedByUs": true
     },
     {
-      "id": "contact_1765374697398_6",
-      "name": "Julia K.",
+      "id": "contact_1765437295054_4",
+      "name": "Dr. Felix Sommer",
       "platform": "instagram",
-      "interactionCount": 4,
-      "lastInteractionDate": 1765376652709,
-      "sentiment": "positive",
-      "status": "lead",
-      "avatarColor": "bg-yellow-500",
-      "notes": "Interessiert an Eiche",
-      "interactionHistory": [
-        {
-          "date": 1765373236441,
-          "type": "reply",
-          "text": "Danke! Ja, wir liefern deutschlandweit.",
-          "byUs": true
-        },
-        {
-          "date": 1765262130088,
-          "type": "comment",
-          "text": "Sieht super aus.",
-          "byUs": false
-        },
-        {
-          "date": 1765256210382,
-          "type": "comment",
-          "text": "Welches Holz ist das?",
-          "byUs": false
-        },
-        {
-          "date": 1765213976312,
-          "type": "comment",
-          "text": "Liefert ihr auch nach München?",
-          "byUs": false
-        },
-        {
-          "date": 1765190870001,
-          "type": "comment",
-          "text": "Gefällt mir sehr.",
-          "byUs": false
-        },
-        {
-          "date": 1765068040870,
-          "type": "comment",
-          "text": "Welches Holz ist das?",
-          "byUs": false
-        },
-        {
-          "date": 1765066580028,
-          "type": "comment",
-          "text": "Liefert ihr auch nach München?",
-          "byUs": false
-        },
-        {
-          "date": 1765019651285,
-          "type": "comment",
-          "text": "Sieht super aus.",
-          "byUs": false
-        },
-        {
-          "date": 1764780590170,
-          "type": "comment",
-          "text": "Welches Holz ist das?",
-          "byUs": false
-        },
-        {
-          "date": 1764502824992,
-          "type": "comment",
-          "text": "Gefällt mir sehr.",
-          "byUs": false
-        }
-      ]
-    },
-    {
-      "id": "contact_1765401354752_1",
-      "name": "Lisa Berg",
-      "platform": "instagram",
-      "interactionCount": 6,
-      "lastInteractionDate": 1765366027483,
+      "interactionCount": 3,
+      "lastInteractionDate": 1765273178262,
       "sentiment": "negative",
       "status": "new",
-      "avatarColor": "bg-yellow-500",
+      "avatarColor": "bg-blue-500",
       "notes": "Hat nach Preisen gefragt (kritisch)",
       "interactionHistory": [
         {
-          "date": 1765366027483,
-          "type": "reply",
-          "text": "Danke! Ja, wir liefern deutschlandweit.",
-          "byUs": true
-        },
-        {
-          "date": 1765361251890,
-          "type": "reply",
-          "text": "Danke! Ja, wir liefern deutschlandweit.",
-          "byUs": true
-        },
-        {
-          "date": 1765258299155,
+          "date": 1765273178262,
           "type": "comment",
-          "text": "Toller Tisch!",
+          "text": "Ich suche genau so etwas für mein neues Büro.",
           "byUs": false
         },
         {
-          "date": 1765208629727,
+          "date": 1765052669624,
           "type": "comment",
-          "text": "Gefällt mir sehr.",
+          "text": "Fantastische Arbeit, wie immer.",
           "byUs": false
         },
         {
-          "date": 1765185941086,
+          "date": 1764730368435,
           "type": "comment",
-          "text": "Sieht super aus.",
+          "text": "Welches Holz ist das genau? Ist das geölt?",
           "byUs": false
         },
         {
-          "date": 1765149447018,
+          "date": 1764495889004,
           "type": "comment",
-          "text": "Sieht super aus.",
-          "byUs": false
-        },
-        {
-          "date": 1765110160019,
-          "type": "comment",
-          "text": "Sieht super aus.",
-          "byUs": false
-        },
-        {
-          "date": 1764945503217,
-          "type": "comment",
-          "text": "Welches Holz ist das?",
-          "byUs": false
-        },
-        {
-          "date": 1764944095346,
-          "type": "comment",
-          "text": "Liefert ihr auch nach München?",
-          "byUs": false
-        },
-        {
-          "date": 1764934902093,
-          "type": "comment",
-          "text": "Welches Holz ist das?",
+          "text": "Ich suche genau so etwas für mein neues Büro.",
           "byUs": false
         }
       ],
-      "interactedByUs": true
+      "interactedByUs": false,
+      "location": "Königstein im Taunus",
+      "jobTitle": "Bauträger"
     },
     {
-      "id": "contact_1765376652708_2",
-      "name": "Michael Schmidt",
-      "platform": "instagram",
-      "interactionCount": 9,
-      "lastInteractionDate": 1765360795912,
-      "sentiment": "neutral",
+      "id": "contact_1765437295054_2",
+      "name": "Architekturbüro Bauer",
+      "platform": "facebook",
+      "interactionCount": 5,
+      "lastInteractionDate": 1765268420564,
+      "sentiment": "negative",
       "status": "new",
       "avatarColor": "bg-green-500",
-      "notes": "Interessiert an Eiche",
+      "notes": "Hat nach Preisen gefragt (kritisch)",
       "interactionHistory": [
         {
-          "date": 1765358488898,
-          "type": "reply",
-          "text": "Danke! Ja, wir liefern deutschlandweit.",
-          "byUs": true
-        },
-        {
-          "date": 1765337880914,
+          "date": 1765268420564,
           "type": "comment",
-          "text": "Sieht super aus.",
+          "text": "Fantastische Arbeit, wie immer.",
           "byUs": false
         },
         {
-          "date": 1765301990772,
+          "date": 1765255855083,
           "type": "comment",
-          "text": "Liefert ihr auch nach München?",
+          "text": "Fantastische Arbeit, wie immer.",
           "byUs": false
         },
         {
-          "date": 1765288646954,
+          "date": 1765102074452,
           "type": "comment",
-          "text": "Gefällt mir sehr.",
+          "text": "Fantastische Arbeit, wie immer.",
           "byUs": false
         },
         {
-          "date": 1765241421966,
+          "date": 1765060357772,
           "type": "comment",
-          "text": "Toller Tisch!",
+          "text": "Toller Tisch! Was kostet so eine Maßanfertigung in Eiche?",
           "byUs": false
         },
         {
-          "date": 1765031045224,
+          "date": 1764926367952,
           "type": "comment",
-          "text": "Liefert ihr auch nach München?",
+          "text": "Welches Holz ist das genau? Ist das geölt?",
           "byUs": false
         },
         {
-          "date": 1765013276331,
+          "date": 1764743231791,
           "type": "comment",
-          "text": "Was kostet das?",
+          "text": "Fantastische Arbeit, wie immer.",
           "byUs": false
         },
         {
-          "date": 1764960876517,
+          "date": 1764581214947,
           "type": "comment",
-          "text": "Welches Holz ist das?",
+          "text": "Toller Tisch! Was kostet so eine Maßanfertigung in Eiche?",
           "byUs": false
         },
         {
-          "date": 1764919919519,
+          "date": 1764568288971,
           "type": "comment",
-          "text": "Welches Holz ist das?",
-          "byUs": false
-        },
-        {
-          "date": 1764917749972,
-          "type": "comment",
-          "text": "Gefällt mir sehr.",
+          "text": "Welches Holz ist das genau? Ist das geölt?",
           "byUs": false
         }
-      ]
+      ],
+      "interactedByUs": false,
+      "location": "Bad Homburg",
+      "jobTitle": "Lifestyle Blogger"
     }
   ],
   "metamind_bot_comments": [
