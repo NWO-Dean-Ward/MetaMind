@@ -800,7 +800,15 @@
           "text": "Was kostet das?",
           "byUs": false
         }
-      ]
+      ],
+      "opportunityScore": 85,
+      "opportunityAnalysis": "Keine Details.",
+      "aiProfile": {
+        "stylePreference": "Unbekannt",
+        "estimatedBudget": "Unbekannt",
+        "personalityType": "Neutral",
+        "buyingIntent": "Low"
+      }
     },
     {
       "id": "contact_1765374697398_2",
