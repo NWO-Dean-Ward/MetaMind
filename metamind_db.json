@@ -437,6 +437,13 @@
       "notes": "Interessiert an Eiche",
       "interactionHistory": [
         {
+          "id": "reply_1765451944989",
+          "date": 1765451944989,
+          "type": "reply",
+          "text": "Es ist Eiche 40mm Vollholz mit Naturkante oder ohne. Wir Ölen die Platte und haben auch da 5 verschiede möglichkeiten.  ",
+          "byUs": true
+        },
+        {
           "id": "msg_1765449512661_1",
           "date": 1765443723142,
           "type": "comment",
@@ -1694,7 +1701,7 @@
       "clientId": "246727023372-7vn9aasucmndktsr2vu4968motcga2qp.apps.googleusercontent.com",
       "accessToken": ""
     },
-    "knowledgeBase": "\n\nFrage: Ich suche genau so etwas für mein neues Büro.\nAntwort: Das klingt ja fantastisch, Anna! Unsere einzigartigen Manufaktur-Stücke sind wie gemacht, um jedem Büro einen ganz besonderen Charakter zu verleihen ✨. Welche Atmosphäre möchtest du denn in deinem neuen Arbeitsbereich schaffen?Schreibe mich doch bitte unter Dean.Ward@amp-brandstifter.de an damit wir einen Termin ausmachen können."
+    "knowledgeBase": "\n\nFrage: Ich suche genau so etwas für mein neues Büro.\nAntwort: Das klingt ja fantastisch, Anna! Unsere einzigartigen Manufaktur-Stücke sind wie gemacht, um jedem Büro einen ganz besonderen Charakter zu verleihen ✨. Welche Atmosphäre möchtest du denn in deinem neuen Arbeitsbereich schaffen?Schreibe mich doch bitte unter Dean.Ward@amp-brandstifter.de an damit wir einen Termin ausmachen können.\n\nFrage: Welches Holz ist das genau? Ist das geölt?\nAntwort: Es ist Eiche 40mm Vollholz mit Naturkante oder ohne. Wir Ölen die Platte und haben auch da 5 verschiede möglichkeiten.  "
   },
   "metamind_last_scan_ts": 1765451604166
 }
