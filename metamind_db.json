@@ -711,19 +711,6 @@
       "notes": "Interessiert an Eiche",
       "interactionHistory": [
         {
-          "id": "reply_1765451604166_9",
-          "date": 1765437438777,
-          "type": "reply",
-          "text": "Danke! Ja, wir liefern deutschlandweit. Ich schicke dir eine DM.",
-          "byUs": true
-        },
-        {
-          "date": 1765425815923,
-          "type": "reply",
-          "text": "Danke! Ja, wir liefern deutschlandweit. Ich schicke dir eine DM.",
-          "byUs": true
-        },
-        {
           "id": "reply_1765449512661_6",
           "date": 1765416981281,
           "type": "reply",
@@ -731,70 +718,10 @@
           "byUs": true
         },
         {
-          "date": 1765415051218,
-          "type": "reply",
-          "text": "Danke! Ja, wir liefern deutschlandweit. Ich schicke dir eine DM.",
-          "byUs": true
-        },
-        {
-          "date": 1765401314349,
-          "type": "reply",
-          "text": "Danke! Ja, wir liefern deutschlandweit.",
-          "byUs": true
-        },
-        {
-          "date": 1765388463791,
-          "type": "reply",
-          "text": "Danke! Ja, wir liefern deutschlandweit.",
-          "byUs": true
-        },
-        {
-          "date": 1765368627978,
-          "type": "reply",
-          "text": "Danke! Ja, wir liefern deutschlandweit.",
-          "byUs": true
-        },
-        {
-          "date": 1765356336423,
-          "type": "reply",
-          "text": "Danke! Ja, wir liefern deutschlandweit.",
-          "byUs": true
-        },
-        {
-          "date": 1765308920505,
-          "type": "comment",
-          "text": "Welches Holz ist das genau? Ist das geölt?",
-          "byUs": false
-        },
-        {
           "id": "msg_1765449512661_1",
           "date": 1765074916423,
           "type": "comment",
           "text": "Buy crypto now!",
-          "byUs": false
-        },
-        {
-          "date": 1765068054061,
-          "type": "comment",
-          "text": "Toller Tisch! Was kostet so eine Maßanfertigung in Eiche?",
-          "byUs": false
-        },
-        {
-          "date": 1765035849673,
-          "type": "comment",
-          "text": "Sieht super aus.",
-          "byUs": false
-        },
-        {
-          "date": 1765006587849,
-          "type": "comment",
-          "text": "Sieht super aus.",
-          "byUs": false
-        },
-        {
-          "date": 1764997978990,
-          "type": "comment",
-          "text": "Liefert ihr auch nach München?",
           "byUs": false
         },
         {
