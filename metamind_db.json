@@ -293,7 +293,15 @@
       "interactedByUs": true,
       "lastPostImage": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/597827388_1467467654725027_340188974384251840_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=uwz7vy5SZUMQ7kNvwFR3UR3&_nc_oc=AdmW2WJ7JHfwl9U1Dex2AUQjK0sjhLoiWENUKBmr8KU7pnSI1FwUiGehbMLnaAHog4F61Xf5mrlByrK2RksTRTBg&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=q065Ww5KXjyXWbQKmfxK7Q&_nc_tpa=Q5bMBQHIXgo5aqrKDdJHgQzH5UjYOSdDnQKic7qKFG4MM9RruUcIpGw9Pvj1G9sSHY6Qyn-FfzOWIVEi&oh=00_AfkYxfr0fFFl3s_0iEYYU43jaUw6H0MOyqk8e0zYt9KGQg&oe=694090CF",
       "isBot": true,
-      "botAnalysis": "Das Profil zeigt deutliche Bot-Indikatoren wie 'DM for collab' und 'Buy crypto now!', was trotz anderer spezifischer Nachrichten auf einen Bot oder ein Fake-Profil schließen lässt."
+      "botAnalysis": "Das Profil zeigt deutliche Bot-Indikatoren wie 'DM for collab' und 'Buy crypto now!', was trotz anderer spezifischer Nachrichten auf einen Bot oder ein Fake-Profil schließen lässt.",
+      "opportunityScore": 85,
+      "opportunityAnalysis": "Keine Details.",
+      "aiProfile": {
+        "stylePreference": "Unbekannt",
+        "estimatedBudget": "Unbekannt",
+        "personalityType": "Neutral",
+        "buyingIntent": "Low"
+      }
     },
     {
       "id": "contact_1765376652708_3",
