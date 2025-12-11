@@ -415,7 +415,15 @@
           "byUs": false
         }
       ],
-      "interactedByUs": true
+      "interactedByUs": true,
+      "opportunityScore": 90,
+      "opportunityAnalysis": "Keine Details.",
+      "aiProfile": {
+        "stylePreference": "Unbekannt",
+        "estimatedBudget": "Unbekannt",
+        "personalityType": "Neutral",
+        "buyingIntent": "Low"
+      }
     },
     {
       "id": "contact_1765370858870_4",
@@ -527,7 +535,9 @@
       "opportunityScore": 92,
       "opportunityAnalysis": "Der Kunde zeigt wiederholt hohes Interesse, fragt aktiv nach Preisen und erkundigt sich nach Liefermodalitäten. Dies signalisiert eine sehr hohe Kaufbereitschaft und sollte umgehend verfolgt werden. -> Tipp: Ein detailliertes Angebot für das angefragte Produkt/Modell vorbereiten und direkt per DM senden.",
       "lastPostImage": "https://scontent-fra5-2.cdninstagram.com/v/t51.82787-15/587544881_18337650136225557_4933826476471871655_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=36fvMRwyUPAQ7kNvwEzrvE8&_nc_oc=AdnNNTM4Z3nF3cw8ULiW6RXmms5y4aklqZpT3o9TAfTXozazhYbSTcEQGSQVpFDyqpAuUOjJ6sEZexMwos6lDT5a&_nc_zt=23&_nc_ht=scontent-fra5-2.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=viW_CRi4q4cKjiWzD-3BPg&oh=00_AfkRX2cOnEWuQqJQjCpfHENcQ8nZTH6pRal097cOFPPUMA&oe=694084FB",
-      "interactedByUs": true
+      "interactedByUs": true,
+      "isBot": true,
+      "botAnalysis": "Das Profil zeigt widersprüchliche Nachrichten, die sowohl Kundenanfragen als auch wiederholte Verkäuferantworten zu Preisen und Lieferungen enthalten, was auf automatisiertes Verhalten hindeutet."
     },
     {
       "id": "contact_1765374697398_4",
