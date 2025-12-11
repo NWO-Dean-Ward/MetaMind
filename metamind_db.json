@@ -251,6 +251,116 @@
   "metamind_planner_saved_at": "2025-12-11T10:38:20.789Z",
   "metamind_crm_contacts": [
     {
+      "id": "contact_1765401354752_0",
+      "name": "Janosch P.",
+      "platform": "instagram",
+      "interactionCount": 6,
+      "lastInteractionDate": 1765450585440,
+      "sentiment": "negative",
+      "status": "new",
+      "avatarColor": "bg-purple-500",
+      "notes": "Hat nach Preisen gefragt (kritisch)",
+      "interactionHistory": [
+        {
+          "id": "msg_1765451604166_2",
+          "date": 1765450585440,
+          "type": "comment",
+          "text": "DM for collab 🔥",
+          "byUs": false
+        },
+        {
+          "id": "reply_1765451604166_0",
+          "date": 1765441409580,
+          "type": "reply",
+          "text": "Danke! Ja, wir liefern deutschlandweit. Ich schicke dir eine DM.",
+          "byUs": true
+        },
+        {
+          "date": 1765380798196,
+          "type": "reply",
+          "text": "Danke! Ja, wir liefern deutschlandweit.",
+          "byUs": true
+        },
+        {
+          "date": 1765352348881,
+          "type": "reply",
+          "text": "Danke! Ja, wir liefern deutschlandweit.",
+          "byUs": true
+        },
+        {
+          "date": 1765348006016,
+          "type": "comment",
+          "text": "Ich suche genau so etwas für mein neues Büro.",
+          "byUs": false
+        },
+        {
+          "date": 1765240434592,
+          "type": "comment",
+          "text": "Welches Holz ist das?",
+          "byUs": false
+        },
+        {
+          "date": 1765127054861,
+          "type": "comment",
+          "text": "Was kostet das?",
+          "byUs": false
+        },
+        {
+          "date": 1765090797091,
+          "type": "comment",
+          "text": "Toller Tisch!",
+          "byUs": false
+        },
+        {
+          "id": "msg_1765451604166_1",
+          "date": 1765076921293,
+          "type": "comment",
+          "text": "Buy crypto now!",
+          "byUs": false
+        },
+        {
+          "date": 1764998926417,
+          "type": "comment",
+          "text": "Gefällt mir sehr.",
+          "byUs": false
+        },
+        {
+          "date": 1764909913986,
+          "type": "comment",
+          "text": "Gefällt mir sehr.",
+          "byUs": false
+        },
+        {
+          "date": 1764903330681,
+          "type": "comment",
+          "text": "Ich suche genau so etwas für mein neues Büro.",
+          "byUs": false
+        },
+        {
+          "date": 1764865389133,
+          "type": "comment",
+          "text": "Gefällt mir sehr.",
+          "byUs": false
+        },
+        {
+          "id": "msg_1765451604166_0",
+          "date": 1764612636897,
+          "type": "comment",
+          "text": "Welches Holz ist das genau? Ist das geölt?",
+          "byUs": false
+        },
+        {
+          "id": "msg_1765451604166_3",
+          "date": 1764551504989,
+          "type": "comment",
+          "text": "Toller Tisch! Was kostet so eine Maßanfertigung in Eiche?",
+          "byUs": false
+        }
+      ],
+      "interactedByUs": true,
+      "lastPostImage": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/597827388_1467467654725027_340188974384251840_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=uwz7vy5SZUMQ7kNvwFR3UR3&_nc_oc=AdmW2WJ7JHfwl9U1Dex2AUQjK0sjhLoiWENUKBmr8KU7pnSI1FwUiGehbMLnaAHog4F61Xf5mrlByrK2RksTRTBg&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=q065Ww5KXjyXWbQKmfxK7Q&_nc_tpa=Q5bMBQHIXgo5aqrKDdJHgQzH5UjYOSdDnQKic7qKFG4MM9RruUcIpGw9Pvj1G9sSHY6Qyn-FfzOWIVEi&oh=00_AfkYxfr0fFFl3s_0iEYYU43jaUw6H0MOyqk8e0zYt9KGQg&oe=694090CF"
+    },
+    {
       "id": "contact_1765376652708_3",
       "name": "Anna Design",
       "platform": "instagram",
@@ -415,6 +525,13 @@
           "byUs": false
         },
         {
+          "id": "msg_1765451604166_2",
+          "date": 1765272090180,
+          "type": "comment",
+          "text": "Welches Holz ist das genau? Ist das geölt?",
+          "byUs": false
+        },
+        {
           "date": 1765246436362,
           "type": "comment",
           "text": "Toller Tisch! Was kostet so eine Maßanfertigung in Eiche?",
@@ -445,21 +562,16 @@
           "byUs": false
         },
         {
+          "id": "msg_1765451604166_0",
+          "date": 1764985586360,
+          "type": "comment",
+          "text": "Welches Holz ist das genau? Ist das geölt?",
+          "byUs": false
+        },
+        {
           "date": 1764981175770,
           "type": "comment",
           "text": "Was kostet das?",
-          "byUs": false
-        },
-        {
-          "date": 1764959661519,
-          "type": "comment",
-          "text": "Ich suche genau so etwas für mein neues Büro.",
-          "byUs": false
-        },
-        {
-          "date": 1764943412703,
-          "type": "comment",
-          "text": "Sieht super aus.",
           "byUs": false
         }
       ],
@@ -499,6 +611,13 @@
           "byUs": false
         },
         {
+          "id": "msg_1765451604166_1",
+          "date": 1765400509372,
+          "type": "comment",
+          "text": "Sieht super aus. Liefert ihr auch nach München?",
+          "byUs": false
+        },
+        {
           "date": 1765399455796,
           "type": "reply",
           "text": "Danke! Ja, wir liefern deutschlandweit.",
@@ -508,6 +627,13 @@
           "date": 1765254284578,
           "type": "comment",
           "text": "Welches Holz ist das?",
+          "byUs": false
+        },
+        {
+          "id": "msg_1765451604166_0",
+          "date": 1765253822977,
+          "type": "comment",
+          "text": "Toller Tisch! Was kostet so eine Maßanfertigung in Eiche?",
           "byUs": false
         },
         {
@@ -560,12 +686,6 @@
           "type": "comment",
           "text": "Welches Holz ist das genau? Ist das geölt?",
           "byUs": false
-        },
-        {
-          "date": 1764528739676,
-          "type": "comment",
-          "text": "Was kostet das?",
-          "byUs": false
         }
       ],
       "opportunityScore": 90,
@@ -577,7 +697,123 @@
         "buyingIntent": "Low"
       },
       "interactedByUs": true,
-      "lastPostImage": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/597873348_1467615428043583_5124233277975024668_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=BnX0d_qohrgQ7kNvwEnwE_u&_nc_oc=Admxff1_E2Ib3O7vJ98kKpmkI-wyAz-2aOBYBz2K5LaWOM6XN_NBUw1XuFNVDF-xuB7WpR5nxYPvtdxKBhEO2Xuh&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=mNX0o3okAclmZGRzKiIgww&_nc_tpa=Q5bMBQH-6A6w3hLZF-B57bAwLe_2L67R0Gx70pfkUMAhY6jNoXpCRDM5RNFwOGIn3k2BIlx1bHyTHXe-&oh=00_Afl8HfQwrzynmI4KwjDUZSqqxUo0SqO3IVeuaRvUvGUJQA&oe=69407027"
+      "lastPostImage": "https://scontent-fra5-1.xx.fbcdn.net/v/t39.30808-6/597651191_1467477578057368_8784847533456717043_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=jKI28lA-dZEQ7kNvwFqG3J3&_nc_oc=AdlxvtLHuPlL-1OmxNY0a32NDHMkLYrdqcNPyMpexqfNJ4zvSdSQBcgSK4d5iF9ja4ruppAzViS148lrEREzQila&_nc_zt=23&_nc_ht=scontent-fra5-1.xx&edm=AKIiGfEEAAAA&_nc_gid=q065Ww5KXjyXWbQKmfxK7Q&_nc_tpa=Q5bMBQHPmhfZWvxm3SINHkYyEbW8ncrU5AiJUevzSRD3dpH8_g6xJiLmMj7oXCTcN0KRbP7P7OPkqKBy&oh=00_AfnOQFFwdINkTemyJJssoMVqfWQY9lwWbriV4sf1cOAkCQ&oe=69406605"
+    },
+    {
+      "id": "contact_1765370858870_0",
+      "name": "Thomas Weber",
+      "platform": "facebook",
+      "interactionCount": 6,
+      "lastInteractionDate": 1765437438777,
+      "sentiment": "neutral",
+      "status": "new",
+      "avatarColor": "bg-blue-500",
+      "notes": "Interessiert an Eiche",
+      "interactionHistory": [
+        {
+          "id": "reply_1765451604166_9",
+          "date": 1765437438777,
+          "type": "reply",
+          "text": "Danke! Ja, wir liefern deutschlandweit. Ich schicke dir eine DM.",
+          "byUs": true
+        },
+        {
+          "date": 1765425815923,
+          "type": "reply",
+          "text": "Danke! Ja, wir liefern deutschlandweit. Ich schicke dir eine DM.",
+          "byUs": true
+        },
+        {
+          "id": "reply_1765449512661_6",
+          "date": 1765416981281,
+          "type": "reply",
+          "text": "Danke! Ja, wir liefern deutschlandweit. Ich schicke dir eine DM.",
+          "byUs": true
+        },
+        {
+          "date": 1765415051218,
+          "type": "reply",
+          "text": "Danke! Ja, wir liefern deutschlandweit. Ich schicke dir eine DM.",
+          "byUs": true
+        },
+        {
+          "date": 1765401314349,
+          "type": "reply",
+          "text": "Danke! Ja, wir liefern deutschlandweit.",
+          "byUs": true
+        },
+        {
+          "date": 1765388463791,
+          "type": "reply",
+          "text": "Danke! Ja, wir liefern deutschlandweit.",
+          "byUs": true
+        },
+        {
+          "date": 1765368627978,
+          "type": "reply",
+          "text": "Danke! Ja, wir liefern deutschlandweit.",
+          "byUs": true
+        },
+        {
+          "date": 1765356336423,
+          "type": "reply",
+          "text": "Danke! Ja, wir liefern deutschlandweit.",
+          "byUs": true
+        },
+        {
+          "date": 1765308920505,
+          "type": "comment",
+          "text": "Welches Holz ist das genau? Ist das geölt?",
+          "byUs": false
+        },
+        {
+          "id": "msg_1765449512661_1",
+          "date": 1765074916423,
+          "type": "comment",
+          "text": "Buy crypto now!",
+          "byUs": false
+        },
+        {
+          "date": 1765068054061,
+          "type": "comment",
+          "text": "Toller Tisch! Was kostet so eine Maßanfertigung in Eiche?",
+          "byUs": false
+        },
+        {
+          "date": 1765035849673,
+          "type": "comment",
+          "text": "Sieht super aus.",
+          "byUs": false
+        },
+        {
+          "date": 1765006587849,
+          "type": "comment",
+          "text": "Sieht super aus.",
+          "byUs": false
+        },
+        {
+          "date": 1764997978990,
+          "type": "comment",
+          "text": "Liefert ihr auch nach München?",
+          "byUs": false
+        },
+        {
+          "id": "msg_1765449512661_0",
+          "date": 1764974430671,
+          "type": "comment",
+          "text": "Welches Holz ist das genau? Ist das geölt?",
+          "byUs": false
+        }
+      ],
+      "lastPostImage": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/597827388_1467467654725027_340188974384251840_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=uwz7vy5SZUMQ7kNvwFR3UR3&_nc_oc=AdmW2WJ7JHfwl9U1Dex2AUQjK0sjhLoiWENUKBmr8KU7pnSI1FwUiGehbMLnaAHog4F61Xf5mrlByrK2RksTRTBg&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=q065Ww5KXjyXWbQKmfxK7Q&_nc_tpa=Q5bMBQHIXgo5aqrKDdJHgQzH5UjYOSdDnQKic7qKFG4MM9RruUcIpGw9Pvj1G9sSHY6Qyn-FfzOWIVEi&oh=00_AfkYxfr0fFFl3s_0iEYYU43jaUw6H0MOyqk8e0zYt9KGQg&oe=694090CF",
+      "opportunityScore": 85,
+      "opportunityAnalysis": "Keine Details.",
+      "aiProfile": {
+        "stylePreference": "Unbekannt",
+        "estimatedBudget": "Unbekannt",
+        "personalityType": "Neutral",
+        "buyingIntent": "Low"
+      }
     },
     {
       "id": "contact_1765374697398_6",
@@ -768,6 +1004,20 @@
           "byUs": false
         },
         {
+          "id": "msg_1765451604166_2",
+          "date": 1764734771164,
+          "type": "comment",
+          "text": "Sieht super aus. Liefert ihr auch nach München?",
+          "byUs": false
+        },
+        {
+          "id": "msg_1765451604166_1",
+          "date": 1764721425749,
+          "type": "comment",
+          "text": "Toller Tisch! Was kostet so eine Maßanfertigung in Eiche?",
+          "byUs": false
+        },
+        {
           "id": "msg_1765449512661_0",
           "date": 1764613904332,
           "type": "comment",
@@ -775,129 +1025,15 @@
           "byUs": false
         },
         {
-          "date": 1764592812801,
+          "id": "msg_1765451604166_0",
+          "date": 1764609091075,
           "type": "comment",
-          "text": "Sieht super aus. Liefert ihr auch nach München?",
+          "text": "Buy crypto now!",
           "byUs": false
         }
       ],
       "interactedByUs": true,
-      "lastPostImage": "https://scontent-fra5-2.cdninstagram.com/v/t51.82787-15/588751997_18337859422225557_4392728021251792994_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=hX3px3d-PxQQ7kNvwHMWkyu&_nc_oc=Adm45_-o3mBMP2aNxUy88OWcuiIC8ZkCQtP8GrvHh6nXzYsaxpsiRBNc8e1qcNeKUIEwjIk_VFqQfx0hQQ2-_Pc5&_nc_zt=23&_nc_ht=scontent-fra5-2.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=viW_CRi4q4cKjiWzD-3BPg&oh=00_Afmm39lkBAZy6MZ1L9Tb-0hV4A0VvFoz_HPpXx18KD20aA&oe=69406857"
-    },
-    {
-      "id": "contact_1765370858870_0",
-      "name": "Thomas Weber",
-      "platform": "facebook",
-      "interactionCount": 6,
-      "lastInteractionDate": 1765425815923,
-      "sentiment": "neutral",
-      "status": "new",
-      "avatarColor": "bg-blue-500",
-      "notes": "Interessiert an Eiche",
-      "interactionHistory": [
-        {
-          "date": 1765425815923,
-          "type": "reply",
-          "text": "Danke! Ja, wir liefern deutschlandweit. Ich schicke dir eine DM.",
-          "byUs": true
-        },
-        {
-          "id": "reply_1765449512661_6",
-          "date": 1765416981281,
-          "type": "reply",
-          "text": "Danke! Ja, wir liefern deutschlandweit. Ich schicke dir eine DM.",
-          "byUs": true
-        },
-        {
-          "date": 1765415051218,
-          "type": "reply",
-          "text": "Danke! Ja, wir liefern deutschlandweit. Ich schicke dir eine DM.",
-          "byUs": true
-        },
-        {
-          "date": 1765401314349,
-          "type": "reply",
-          "text": "Danke! Ja, wir liefern deutschlandweit.",
-          "byUs": true
-        },
-        {
-          "date": 1765388463791,
-          "type": "reply",
-          "text": "Danke! Ja, wir liefern deutschlandweit.",
-          "byUs": true
-        },
-        {
-          "date": 1765368627978,
-          "type": "reply",
-          "text": "Danke! Ja, wir liefern deutschlandweit.",
-          "byUs": true
-        },
-        {
-          "date": 1765356336423,
-          "type": "reply",
-          "text": "Danke! Ja, wir liefern deutschlandweit.",
-          "byUs": true
-        },
-        {
-          "date": 1765308920505,
-          "type": "comment",
-          "text": "Welches Holz ist das genau? Ist das geölt?",
-          "byUs": false
-        },
-        {
-          "id": "msg_1765449512661_1",
-          "date": 1765074916423,
-          "type": "comment",
-          "text": "Buy crypto now!",
-          "byUs": false
-        },
-        {
-          "date": 1765068054061,
-          "type": "comment",
-          "text": "Toller Tisch! Was kostet so eine Maßanfertigung in Eiche?",
-          "byUs": false
-        },
-        {
-          "date": 1765035849673,
-          "type": "comment",
-          "text": "Sieht super aus.",
-          "byUs": false
-        },
-        {
-          "date": 1765006587849,
-          "type": "comment",
-          "text": "Sieht super aus.",
-          "byUs": false
-        },
-        {
-          "date": 1764997978990,
-          "type": "comment",
-          "text": "Liefert ihr auch nach München?",
-          "byUs": false
-        },
-        {
-          "id": "msg_1765449512661_0",
-          "date": 1764974430671,
-          "type": "comment",
-          "text": "Welches Holz ist das genau? Ist das geölt?",
-          "byUs": false
-        },
-        {
-          "date": 1764876393810,
-          "type": "comment",
-          "text": "Welches Holz ist das genau? Ist das geölt?",
-          "byUs": false
-        }
-      ],
-      "lastPostImage": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/597827388_1467467654725027_340188974384251840_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=uwz7vy5SZUMQ7kNvwFR3UR3&_nc_oc=AdmW2WJ7JHfwl9U1Dex2AUQjK0sjhLoiWENUKBmr8KU7pnSI1FwUiGehbMLnaAHog4F61Xf5mrlByrK2RksTRTBg&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=mNX0o3okAclmZGRzKiIgww&_nc_tpa=Q5bMBQEVUMDx2Q4A722uTQYDiSCynZpJ25utTxkawd8Jc5-HM8WnMFsBAo2XbWuGsCdaKFsPSRZMhnlm&oh=00_AfmVOu5I1nY9rel-v_yDdZEjD2ecdnmJOIvDDFhv5M4VOQ&oe=6940588F",
-      "opportunityScore": 85,
-      "opportunityAnalysis": "Keine Details.",
-      "aiProfile": {
-        "stylePreference": "Unbekannt",
-        "estimatedBudget": "Unbekannt",
-        "personalityType": "Neutral",
-        "buyingIntent": "Low"
-      }
+      "lastPostImage": "https://scontent-fra3-1.cdninstagram.com/v/t51.82787-15/598335214_18337956856225557_5932246700648997788_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=hmcG7E4UU60Q7kNvwEqQQI6&_nc_oc=AdnFnJbjPJGCS6p_LlQDckBifXN93LZG8SWqZ8pXJRZkhsxtkhvtJ-haBFhVefXnCJ5P6ydHeedxI5NhwKqnjoyL&_nc_zt=23&_nc_ht=scontent-fra3-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=mDpk_wDOhHQZ2-uz35zZWQ&oh=00_AfmWGwMHceXZIhCLwFXQ4enInB33XTfMPSOocl9eR1Hg_A&oe=69406BBA"
     },
     {
       "id": "contact_1765374697398_2",
@@ -1035,6 +1171,20 @@
           "byUs": true
         },
         {
+          "id": "msg_1765451604166_1",
+          "date": 1765200815782,
+          "type": "comment",
+          "text": "Ich suche genau so etwas für mein neues Büro.",
+          "byUs": false
+        },
+        {
+          "id": "msg_1765451604166_0",
+          "date": 1765028102700,
+          "type": "comment",
+          "text": "Welches Holz ist das genau? Ist das geölt?",
+          "byUs": false
+        },
+        {
           "id": "msg_1765449512661_0",
           "date": 1764862377681,
           "type": "comment",
@@ -1045,7 +1195,7 @@
       "interactedByUs": true,
       "location": "Königstein im Taunus",
       "jobTitle": "Lifestyle Blogger",
-      "lastPostImage": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/597668536_1467483674723425_4657550909476285946_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=-54sGN9jfxIQ7kNvwEBvEyD&_nc_oc=AdlmLd3fCjoF750MzI5SgjR3W-eLAb4O7bD5eCZP5yP1Z_eXQ-LQDa7Jy7mj7dpsnDPDEDkwJ5amLQl1W5xbZ86P&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=mNX0o3okAclmZGRzKiIgww&_nc_tpa=Q5bMBQGIZ3qBDdDvkhW5wGAsxQZsKnKcCloqU5uHwSD9sq6ofc6YPfdH6xMek8NQPzwUSKBavio5SGM0&oh=00_Afk4PyijLpZZNDaW0J8mbLtpzDx_zK1XWN_x5V3FgAXRXg&oe=69408543",
+      "lastPostImage": "https://scontent-fra5-2.cdninstagram.com/v/t51.82787-15/588751997_18337859422225557_4392728021251792994_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=hX3px3d-PxQQ7kNvwHMWkyu&_nc_oc=Adm45_-o3mBMP2aNxUy88OWcuiIC8ZkCQtP8GrvHh6nXzYsaxpsiRBNc8e1qcNeKUIEwjIk_VFqQfx0hQQ2-_Pc5&_nc_zt=23&_nc_ht=scontent-fra5-2.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=mDpk_wDOhHQZ2-uz35zZWQ&oh=00_Afln_55kVHneP7AborY-_C-OAzU3iUs_9sOX5j0uWrGKHQ&oe=69406857",
       "lastPostTitle": "City Apartment Style trifft au..."
     },
     {
@@ -1180,6 +1330,13 @@
           "byUs": false
         },
         {
+          "id": "msg_1765451604166_0",
+          "date": 1765392184000,
+          "type": "comment",
+          "text": "Toller Tisch! Was kostet so eine Maßanfertigung in Eiche?",
+          "byUs": false
+        },
+        {
           "date": 1765273178262,
           "type": "comment",
           "text": "Ich suche genau so etwas für mein neues Büro.",
@@ -1225,7 +1382,7 @@
       "interactedByUs": true,
       "location": "Königstein im Taunus",
       "jobTitle": "Bauträger",
-      "lastPostImage": "https://scontent-fra3-1.cdninstagram.com/v/t51.82787-15/598335214_18337956856225557_5932246700648997788_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=hmcG7E4UU60Q7kNvwFKVSn6&_nc_oc=AdncDJwlQB8emSRriQApSZLrXkdRcaxGncOhrZ1FuRGLpHgwyImZ2dykD-QeZks-VJqavgNDRCa0w8TamVSVKVIU&_nc_zt=23&_nc_ht=scontent-fra3-1.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=PrBTLIhYP6aAY94fMrouww&oh=00_AfnQPlI5KA58nG3ZhiFyeI5yeXsRFqB8ABEdwRXct2ThIg&oe=6940337A"
+      "lastPostImage": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/598380949_1467470498058076_8963559082357923055_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=cSLX-wqK_o8Q7kNvwFWDoXO&_nc_oc=AdmXvY2wXdCP8PDcoqgefDOJGzHRAzV-befAhGRmDFdyewlViM9qUHSSDTkvmNdm2AYRz_H5VIJV8xOYyaLiNwrF&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&edm=AKIiGfEEAAAA&_nc_gid=q065Ww5KXjyXWbQKmfxK7Q&_nc_tpa=Q5bMBQEJhIKhU18Jb91A4HEGaOys9nbg8E-uv6sJ03nqOnbkEBED7SqeX7OUwAtLH2rRQN9IhVt0WgxJ&oh=00_AfmXv3K70I8HpCNWdbAESB8qf4LwrieHqHwDmj5EfCQ92Q&oe=69406F5B"
     },
     {
       "id": "contact_1765370858870_1",
@@ -1299,6 +1456,20 @@
           "byUs": false
         },
         {
+          "id": "msg_1765451604166_1",
+          "date": 1765172689195,
+          "type": "comment",
+          "text": "Toller Tisch! Was kostet so eine Maßanfertigung in Eiche?",
+          "byUs": false
+        },
+        {
+          "id": "msg_1765451604166_2",
+          "date": 1765012288229,
+          "type": "comment",
+          "text": "Welches Holz ist das genau? Ist das geölt?",
+          "byUs": false
+        },
+        {
           "date": 1764978156812,
           "type": "comment",
           "text": "Was kostet das?",
@@ -1311,24 +1482,14 @@
           "byUs": false
         },
         {
-          "date": 1764939667364,
+          "id": "msg_1765451604166_0",
+          "date": 1764952415689,
           "type": "comment",
-          "text": "Gefällt mir sehr.",
-          "byUs": false
-        },
-        {
-          "date": 1764631017745,
-          "type": "comment",
-          "text": "Toller Tisch! Was kostet so eine Maßanfertigung in Eiche?",
-          "byUs": false
-        },
-        {
-          "date": 1764516979787,
-          "type": "comment",
-          "text": "Fantastische Arbeit, wie immer. Der Kontrast ist super.",
+          "text": "Welches Holz ist das genau? Ist das geölt?",
           "byUs": false
         }
-      ]
+      ],
+      "lastPostImage": "https://scontent-fra5-2.cdninstagram.com/v/t51.82787-15/588751997_18337859422225557_4392728021251792994_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=hX3px3d-PxQQ7kNvwHMWkyu&_nc_oc=Adm45_-o3mBMP2aNxUy88OWcuiIC8ZkCQtP8GrvHh6nXzYsaxpsiRBNc8e1qcNeKUIEwjIk_VFqQfx0hQQ2-_Pc5&_nc_zt=23&_nc_ht=scontent-fra5-2.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=mDpk_wDOhHQZ2-uz35zZWQ&oh=00_Afln_55kVHneP7AborY-_C-OAzU3iUs_9sOX5j0uWrGKHQ&oe=69406857"
     },
     {
       "id": "contact_1765437295054_0",
@@ -1423,80 +1584,6 @@
       "lastPostImage": "https://scontent-fra3-1.xx.fbcdn.net/v/t39.30808-6/597873348_1467615428043583_5124233277975024668_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=BnX0d_qohrgQ7kNvwEnwE_u&_nc_oc=Admxff1_E2Ib3O7vJ98kKpmkI-wyAz-2aOBYBz2K5LaWOM6XN_NBUw1XuFNVDF-xuB7WpR5nxYPvtdxKBhEO2Xuh&_nc_zt=23&_nc_ht=scontent-fra3-1.xx&edm=AKIiGfEEAAAA&_nc_gid=mNX0o3okAclmZGRzKiIgww&_nc_tpa=Q5bMBQH-6A6w3hLZF-B57bAwLe_2L67R0Gx70pfkUMAhY6jNoXpCRDM5RNFwOGIn3k2BIlx1bHyTHXe-&oh=00_Afl8HfQwrzynmI4KwjDUZSqqxUo0SqO3IVeuaRvUvGUJQA&oe=69407027"
     },
     {
-      "id": "contact_1765401354752_0",
-      "name": "Janosch P.",
-      "platform": "instagram",
-      "interactionCount": 6,
-      "lastInteractionDate": 1765380798196,
-      "sentiment": "negative",
-      "status": "new",
-      "avatarColor": "bg-purple-500",
-      "notes": "Hat nach Preisen gefragt (kritisch)",
-      "interactionHistory": [
-        {
-          "date": 1765380798196,
-          "type": "reply",
-          "text": "Danke! Ja, wir liefern deutschlandweit.",
-          "byUs": true
-        },
-        {
-          "date": 1765352348881,
-          "type": "reply",
-          "text": "Danke! Ja, wir liefern deutschlandweit.",
-          "byUs": true
-        },
-        {
-          "date": 1765348006016,
-          "type": "comment",
-          "text": "Ich suche genau so etwas für mein neues Büro.",
-          "byUs": false
-        },
-        {
-          "date": 1765240434592,
-          "type": "comment",
-          "text": "Welches Holz ist das?",
-          "byUs": false
-        },
-        {
-          "date": 1765127054861,
-          "type": "comment",
-          "text": "Was kostet das?",
-          "byUs": false
-        },
-        {
-          "date": 1765090797091,
-          "type": "comment",
-          "text": "Toller Tisch!",
-          "byUs": false
-        },
-        {
-          "date": 1764998926417,
-          "type": "comment",
-          "text": "Gefällt mir sehr.",
-          "byUs": false
-        },
-        {
-          "date": 1764909913986,
-          "type": "comment",
-          "text": "Gefällt mir sehr.",
-          "byUs": false
-        },
-        {
-          "date": 1764903330681,
-          "type": "comment",
-          "text": "Ich suche genau so etwas für mein neues Büro.",
-          "byUs": false
-        },
-        {
-          "date": 1764865389133,
-          "type": "comment",
-          "text": "Gefällt mir sehr.",
-          "byUs": false
-        }
-      ],
-      "interactedByUs": true
-    },
-    {
       "id": "contact_1765437295054_2",
       "name": "Architekturbüro Bauer",
       "platform": "facebook",
@@ -1520,9 +1607,23 @@
           "byUs": false
         },
         {
+          "id": "msg_1765451604166_4",
+          "date": 1765232637386,
+          "type": "comment",
+          "text": "DM for collab 🔥",
+          "byUs": false
+        },
+        {
           "date": 1765102074452,
           "type": "comment",
           "text": "Fantastische Arbeit, wie immer.",
+          "byUs": false
+        },
+        {
+          "id": "msg_1765451604166_0",
+          "date": 1765085042872,
+          "type": "comment",
+          "text": "Buy crypto now!",
           "byUs": false
         },
         {
@@ -1566,12 +1667,65 @@
           "type": "comment",
           "text": "Welches Holz ist das genau? Ist das geölt?",
           "byUs": false
+        },
+        {
+          "id": "msg_1765451604166_3",
+          "date": 1764505105717,
+          "type": "comment",
+          "text": "DM for collab 🔥",
+          "byUs": false
+        },
+        {
+          "id": "msg_1765451604166_2",
+          "date": 1764495088238,
+          "type": "comment",
+          "text": "Ich suche genau so etwas für mein neues Büro.",
+          "byUs": false
+        },
+        {
+          "id": "msg_1765451604166_1",
+          "date": 1764493716358,
+          "type": "comment",
+          "text": "Sieht super aus. Liefert ihr auch nach München?",
+          "byUs": false
         }
       ],
       "interactedByUs": false,
       "location": "Bad Homburg",
       "jobTitle": "Lifestyle Blogger",
       "lastPostImage": "https://scontent-fra5-2.cdninstagram.com/v/t51.82787-15/587544881_18337650136225557_4933826476471871655_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=36fvMRwyUPAQ7kNvwHTELeV&_nc_oc=AdknnSs6BbpvW_IxXU3T-SNMmG0JyAVd3EEZGnaN8OYcOGcXKCJ19jqmoK_FbHZVof2bk9oBDH96RG-Z6hhGCs6R&_nc_zt=23&_nc_ht=scontent-fra5-2.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=PrBTLIhYP6aAY94fMrouww&oh=00_Afmwc-2l9Jh36T-aGRwrSAk1Y-bfREoRMHnkvvocsKBUtw&oe=69404CBB"
+    },
+    {
+      "id": "contact_1765451604166_11",
+      "name": "LisaPins",
+      "platform": "pinterest",
+      "interactionCount": 2,
+      "lastInteractionDate": 1765084651844,
+      "sentiment": "negative",
+      "status": "new",
+      "avatarColor": "bg-pink-500",
+      "notes": "Hat nach Preisen gefragt (kritisch)",
+      "interactionHistory": [
+        {
+          "id": "msg_1765451604166_1",
+          "date": 1765084651844,
+          "type": "comment",
+          "text": "Gepint auf 'Traumhaus'",
+          "byUs": false
+        },
+        {
+          "id": "msg_1765451604166_0",
+          "date": 1764459434235,
+          "type": "pin",
+          "text": "Woher ist das Holz?",
+          "byUs": false
+        }
+      ],
+      "interactedByUs": false,
+      "location": "Königstein im Taunus",
+      "jobTitle": "Lifestyle Blogger",
+      "lastPostImage": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-6/598380949_1467470498058076_8963559082357923055_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=cSLX-wqK_o8Q7kNvwFWDoXO&_nc_oc=AdmXvY2wXdCP8PDcoqgefDOJGzHRAzV-befAhGRmDFdyewlViM9qUHSSDTkvmNdm2AYRz_H5VIJV8xOYyaLiNwrF&_nc_zt=23&_nc_ht=scontent-fra5-2.xx&edm=AKIiGfEEAAAA&_nc_gid=q065Ww5KXjyXWbQKmfxK7Q&_nc_tpa=Q5bMBQEJhIKhU18Jb91A4HEGaOys9nbg8E-uv6sJ03nqOnbkEBED7SqeX7OUwAtLH2rRQN9IhVt0WgxJ&oh=00_AfmXv3K70I8HpCNWdbAESB8qf4LwrieHqHwDmj5EfCQ92Q&oe=69406F5B",
+      "lastPostTitle": "City Apartment Style trifft au..."
     }
   ],
   "metamind_bot_comments": [
@@ -1655,5 +1809,5 @@
       "accessToken": ""
     }
   },
-  "metamind_last_scan_ts": 1765449512661
+  "metamind_last_scan_ts": 1765451604166
 }
