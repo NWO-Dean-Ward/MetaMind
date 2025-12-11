@@ -1,214 +1,244 @@
 {
   "metamind_planner_items": [
     {
-      "id": "plan_1765403630688_0",
-      "topic": "Projekt Spotlight: Eine Japandi Küche in Hamburg mit minimalistischem Design und SieMatic Smart-Storage.",
-      "date": "2025-12-12T09:00:00.000Z",
+      "id": "plan_1765437266803_0",
+      "topic": "Vorher-Nachher-Transformation: Skandi-Japan-Küche mit SieMatic-Trends – Die Metamorphose zum Herzstück.",
+      "date": "2025-12-13T09:00:00.000Z",
       "status": "pending",
-      "platform": "facebook"
+      "platform": "facebook",
+      "visualStyle": "Wide Angle"
     },
     {
-      "id": "plan_1765403630688_1",
-      "topic": "Vorher & Nachher: Verwandlung einer Küche in eine Oase der Ruhe im skandinavisch-japanischen Stil.",
-      "date": "2025-12-14T09:00:00.000Z",
+      "id": "plan_1765437266803_1",
+      "topic": "Zeitraffer: So entstehen unsere Akustik-Holzlamellen für Garderoben – Präzision im Detail.",
+      "date": "2025-12-15T09:00:00.000Z",
       "status": "pending",
-      "platform": "facebook"
+      "platform": "facebook",
+      "visualStyle": "Wide Angle"
     },
     {
-      "id": "plan_1765403630688_2",
-      "topic": "Detailverliebt: Die Schönheit einer SieMatic StoneDesign Arbeitsplatte in unserer neuesten Japandi-Küche.",
-      "date": "2025-12-16T09:00:00.000Z",
+      "id": "plan_1765437266803_2",
+      "topic": "3 Kerrock-Pflege-Hacks für Waschtischschränke in Pastell – Damit sie ewig strahlen.",
+      "date": "2025-12-17T09:00:00.000Z",
       "status": "pending",
-      "platform": "facebook"
+      "platform": "facebook",
+      "visualStyle": "Wide Angle"
     },
     {
-      "id": "plan_1765403630688_3",
-      "topic": "Kundenliebling: Eine offene Wohnküche, die Essbereich und Natur nahtlos verbindet – inspiriert von SieMatic Pure.",
-      "date": "2025-12-18T09:00:00.000Z",
+      "id": "plan_1765437266803_3",
+      "topic": "Familienfreuden am Eichentisch: Ein Naturkanten-Meisterwerk, das Geschichten erzählt.",
+      "date": "2025-12-19T09:00:00.000Z",
       "status": "pending",
-      "platform": "facebook"
+      "platform": "facebook",
+      "visualStyle": "Wide Angle"
     },
     {
-      "id": "plan_1765403630688_4",
-      "topic": "Raumwunder: Wie wir eine kleine Küche durch clevere Japandi-Designprinzipien und SieMatic-Lösungen maximiert haben.",
-      "date": "2025-12-20T09:00:00.000Z",
+      "id": "plan_1765437266803_4",
+      "topic": "Ein Blick hinter die Kulissen: Planung und erste Skizzen für ein Luxus-Ankleidezimmer-Traumprojekt.",
+      "date": "2025-12-21T09:00:00.000Z",
       "status": "pending",
-      "platform": "facebook"
+      "platform": "facebook",
+      "visualStyle": "Wide Angle"
     },
     {
-      "id": "plan_1765403630688_5",
-      "topic": "Farbkonzept im Fokus: Sanfte Erdtöne treffen auf dunkles Holz in diesem einzigartigen Japandi Küchenprojekt.",
-      "date": "2025-12-22T09:00:00.000Z",
+      "id": "plan_1765437266803_5",
+      "topic": "Quiz: Erkennst du unsere Handwerkskunst? Details von 3 verschiedenen Möbelstücken.",
+      "date": "2025-12-23T09:00:00.000Z",
       "status": "pending",
-      "platform": "facebook"
+      "platform": "facebook",
+      "visualStyle": "Wide Angle"
     },
     {
-      "id": "plan_1765403630688_6",
-      "topic": "Licht & Schatten: Eine Küche, die mit natürlichem Licht spielt und die Eleganz von SieMatic BeauxArts widerspiegelt.",
-      "date": "2025-12-24T09:00:00.000Z",
+      "id": "plan_1765437266803_6",
+      "topic": "Weitblick: Wie eine offene Skandi-Japan-Küche den ganzen Wohnraum verändert – Raumwirkung pur.",
+      "date": "2025-12-25T09:00:00.000Z",
       "status": "pending",
-      "platform": "facebook"
+      "platform": "facebook",
+      "visualStyle": "Wide Angle"
     },
     {
-      "id": "plan_1765403630688_7",
-      "topic": "Statement-Stück: Die Kücheninsel als Herzstück – funktional und ästhetisch im Japandi-Stil.",
-      "date": "2025-12-26T09:00:00.000Z",
+      "id": "plan_1765437266803_7",
+      "topic": "Warum Akustik-Holzlamellen in der Garderobe mehr als nur schön sind – Dein Guide zur Schalloptimierung.",
+      "date": "2025-12-27T09:00:00.000Z",
       "status": "pending",
-      "platform": "facebook"
+      "platform": "facebook",
+      "visualStyle": "Wide Angle"
     },
     {
-      "id": "plan_1765403630688_8",
-      "topic": "Nachhaltig & Schön: Unsere neueste Installation mit umweltfreundlichen Materialien und zeitlosem Japandi-Design.",
-      "date": "2025-12-28T09:00:00.000Z",
+      "id": "plan_1765437266803_8",
+      "topic": "Farbenlehre im Bad: So wählen wir die perfekten Pastelltöne für unsere Kerrock-Waschtische aus.",
+      "date": "2025-12-29T09:00:00.000Z",
       "status": "pending",
-      "platform": "facebook"
+      "platform": "facebook",
+      "visualStyle": "Wide Angle"
     },
     {
-      "id": "plan_1765403630688_9",
-      "topic": "Eleganz trifft Funktionalität: Ein Blick in eine fertiggestellte Küche, die skandinavische Hygge mit japanischem Zen vereint.",
-      "date": "2025-12-30T09:00:00.000Z",
+      "id": "plan_1765437266803_9",
+      "topic": "Das Geheimnis einer glücklichen Familie: Unser Eichentisch mit Naturkante als Zentrum des Zusammenkommens.",
+      "date": "2025-12-31T09:00:00.000Z",
       "status": "pending",
-      "platform": "facebook"
+      "platform": "facebook",
+      "visualStyle": "Wide Angle"
     },
     {
-      "id": "plan_1765403630688_10",
-      "topic": "Ein Tag in unserer Werkstatt: So entstehen die präzisen Elemente für eure Traumküche.",
-      "date": "2026-01-01T09:00:00.000Z",
+      "id": "plan_1765437266803_10",
+      "topic": "Luxus-Ankleidezimmer richtig planen: 5 Tipps für maximale Organisation und Eleganz.",
+      "date": "2026-01-02T09:00:00.000Z",
       "status": "pending",
-      "platform": "facebook"
+      "platform": "facebook",
+      "visualStyle": "Wide Angle"
     },
     {
-      "id": "plan_1765403630688_11",
-      "topic": "Meet the Team: Lernt unseren Schreiner Max kennen, der jedes Detail eurer Japandi-Küche perfektioniert.",
-      "date": "2026-01-03T09:00:00.000Z",
+      "id": "plan_1765437266803_11",
+      "topic": "Meet the Team: Wer steckt hinter deinen Traummöbeln? Interview mit unserem Schreiner-Meister.",
+      "date": "2026-01-04T09:00:00.000Z",
       "status": "pending",
-      "platform": "facebook"
+      "platform": "facebook",
+      "visualStyle": "Wide Angle"
     },
     {
-      "id": "plan_1765403630688_12",
-      "topic": "Materialkunde: Unsere Auswahl an Hölzern und Oberflächen, inspiriert von der Natur für eure SieMatic Küche.",
-      "date": "2026-01-05T09:00:00.000Z",
+      "id": "plan_1765437266803_12",
+      "topic": "SieMatic Trends 2024: Wir bringen Skandi-Japan in deine Küche – Eine Designstudie.",
+      "date": "2026-01-06T09:00:00.000Z",
       "status": "pending",
-      "platform": "facebook"
+      "platform": "facebook",
+      "visualStyle": "Wide Angle"
     },
     {
-      "id": "plan_1765403630688_13",
-      "topic": "Von der Skizze zur Realität: Der Entwurfsprozess einer SieMatic SLX Küche in unserem Designstudio.",
-      "date": "2026-01-07T09:00:00.000Z",
+      "id": "plan_1765437266803_13",
+      "topic": "Challenge: Finde den Fehler! Unsere Garderobe mit Akustik-Holzlamellen im Detailcheck.",
+      "date": "2026-01-08T09:00:00.000Z",
       "status": "pending",
-      "platform": "facebook"
+      "platform": "facebook",
+      "visualStyle": "Wide Angle"
     },
     {
-      "id": "plan_1765403630688_14",
-      "topic": "Qualitätscheck: Wie wir sicherstellen, dass jedes Element eurer Küche unseren hohen Standards entspricht.",
-      "date": "2026-01-09T09:00:00.000Z",
+      "id": "plan_1765437266803_14",
+      "topic": "Pastell-Träume in Kerrock: Eine Bad-Oase mit maßgeschneidertem Waschtischschrank.",
+      "date": "2026-01-10T09:00:00.000Z",
       "status": "pending",
-      "platform": "facebook"
+      "platform": "facebook",
+      "visualStyle": "Wide Angle"
     },
     {
-      "id": "plan_1765403630688_15",
-      "topic": "Hinter den Kulissen des Shootings: So setzen wir unsere fertigen Japandi Küchenprojekte ins rechte Licht.",
-      "date": "2026-01-11T09:00:00.000Z",
+      "id": "plan_1765437266803_15",
+      "topic": "Vom Baumstamm zum Esstisch: Die Entstehung einer Eichen-Naturkante – Ein Handwerk zum Anfassen.",
+      "date": "2026-01-12T09:00:00.000Z",
       "status": "pending",
-      "platform": "facebook"
+      "platform": "facebook",
+      "visualStyle": "Wide Angle"
     },
     {
-      "id": "plan_1765403630688_16",
-      "topic": "5 Essentials für eine authentische Japandi Küche: Weniger ist mehr.",
-      "date": "2026-01-13T09:00:00.000Z",
+      "id": "plan_1765437266803_16",
+      "topic": "Prinzessinnen-Zauber: Ein maßgefertigtes Luxus-Ankleidezimmer, das keine Wünsche offen lässt.",
+      "date": "2026-01-14T09:00:00.000Z",
       "status": "pending",
-      "platform": "facebook"
+      "platform": "facebook",
+      "visualStyle": "Wide Angle"
     },
     {
-      "id": "plan_1765403630688_17",
-      "topic": "SieMatic Trends 2024: Wie integriert man Smart-Living-Funktionen elegant in den Küchenalltag?",
-      "date": "2026-01-15T09:00:00.000Z",
+      "id": "plan_1765437266803_17",
+      "topic": "Materialkunde: Was Kerrock, Eiche und Akustik-Holzlamellen so besonders macht.",
+      "date": "2026-01-16T09:00:00.000Z",
       "status": "pending",
-      "platform": "facebook"
+      "platform": "facebook",
+      "visualStyle": "Wide Angle"
     },
     {
-      "id": "plan_1765403630688_18",
-      "topic": "Pflege-Guide: So bleibt eure Naturstein-Arbeitsplatte im Japandi-Stil lange schön.",
-      "date": "2026-01-17T09:00:00.000Z",
+      "id": "plan_1765437266803_18",
+      "topic": "City Apartment Style: Kompakte Skandi-Japan-Küche mit cleveren SieMatic-Lösungen für urbanes Wohnen.",
+      "date": "2026-01-18T09:00:00.000Z",
       "status": "pending",
-      "platform": "facebook"
+      "platform": "facebook",
+      "visualStyle": "Wide Angle"
     },
     {
-      "id": "plan_1765403630688_19",
-      "topic": "Küchenplanung leicht gemacht: Unsere Top-Tipps für die optimale Raumaufteilung einer SieMatic Küche.",
-      "date": "2026-01-19T09:00:00.000Z",
+      "id": "plan_1765437266803_19",
+      "topic": "Feinschliff: Die Oberflächenbehandlung unserer Akustik-Holzlamellen für perfekte Haptik und Optik.",
+      "date": "2026-01-20T09:00:00.000Z",
       "status": "pending",
-      "platform": "facebook"
+      "platform": "facebook",
+      "visualStyle": "Wide Angle"
     },
     {
-      "id": "plan_1765403630688_20",
-      "topic": "Farbpsychologie in der Küche: Welche Farbtöne bringen Ruhe und Harmonie ins Japandi-Design?",
-      "date": "2026-01-21T09:00:00.000Z",
+      "id": "plan_1765437266803_20",
+      "topic": "Farbpsychologie im Bad: Warum Pastelltöne in Kerrock für Wohlbefinden sorgen.",
+      "date": "2026-01-22T09:00:00.000Z",
       "status": "pending",
-      "platform": "facebook"
+      "platform": "facebook",
+      "visualStyle": "Wide Angle"
     },
     {
-      "id": "plan_1765403630688_21",
-      "topic": "Nachhaltigkeit in der Küche: Wie man langlebige Materialien und zeitloses Design kombiniert.",
-      "date": "2026-01-23T09:00:00.000Z",
+      "id": "plan_1765437266803_21",
+      "topic": "Rate mal, wie viele Stunden Handarbeit in diesem Eichen-Naturkanten-Esstisch stecken?",
+      "date": "2026-01-24T09:00:00.000Z",
       "status": "pending",
-      "platform": "facebook"
+      "platform": "facebook",
+      "visualStyle": "Wide Angle"
     },
     {
-      "id": "plan_1765403630688_22",
-      "topic": "Welches ist euer liebstes Detail in einer Japandi Küche: Helle Hölzer, minimalistische Griffe oder offene Regale? #JapandiLiebe",
-      "date": "2026-01-25T09:00:00.000Z",
+      "id": "plan_1765437266803_22",
+      "topic": "Der perfekte Übergang: Von Schlafzimmer zu Luxus-Ankleide – Ein Raumkonzept.",
+      "date": "2026-01-26T09:00:00.000Z",
       "status": "pending",
-      "platform": "facebook"
+      "platform": "facebook",
+      "visualStyle": "Wide Angle"
     },
     {
-      "id": "plan_1765403630688_23",
-      "topic": "SieMatic oder Japandi – welche Designphilosophie spricht euch mehr an und warum?",
-      "date": "2026-01-27T09:00:00.000Z",
+      "id": "plan_1765437266803_23",
+      "topic": "Ein Tag in unserer Werkstatt: Einblicke in die Passion, die hinter jedem Möbelstück steckt.",
+      "date": "2026-01-28T09:00:00.000Z",
       "status": "pending",
-      "platform": "facebook"
+      "platform": "facebook",
+      "visualStyle": "Wide Angle"
     },
     {
-      "id": "plan_1765403630688_24",
-      "topic": "Wenn ihr eine neue Küche planen könntet, welches Element wäre euch am wichtigsten: Design, Funktionalität oder Nachhaltigkeit?",
-      "date": "2026-01-29T09:00:00.000Z",
+      "id": "plan_1765437266803_24",
+      "topic": "Die Ästhetik des Einfachen: Skandi-Japan-Küchengestaltung, die Ruhe und Funktion vereint.",
+      "date": "2026-01-30T09:00:00.000Z",
       "status": "pending",
-      "platform": "facebook"
+      "platform": "facebook",
+      "visualStyle": "Wide Angle"
     },
     {
-      "id": "plan_1765403630688_25",
-      "topic": "Ihr seid dran! Zeigt uns eure liebsten Deko-Elemente, die den Japandi-Stil in eurem Zuhause aufgreifen.",
-      "date": "2026-01-31T09:00:00.000Z",
+      "id": "plan_1765437266803_25",
+      "topic": "Akustik-Holzlamellen integrieren: So planen wir sie harmonisch in deine Garderobe ein.",
+      "date": "2026-02-01T09:00:00.000Z",
       "status": "pending",
-      "platform": "facebook"
+      "platform": "facebook",
+      "visualStyle": "Wide Angle"
     },
     {
-      "id": "plan_1765403630688_26",
-      "topic": "Was ist für euch der Inbegriff von 'Hygge' und 'Wabi-Sabi' in der Küche?",
-      "date": "2026-02-02T09:00:00.000Z",
+      "id": "plan_1765437266803_26",
+      "topic": "Kerrock-Waschtisch im Entstehen: Vom Zuschnitt bis zur makellosen Oberfläche.",
+      "date": "2026-02-03T09:00:00.000Z",
       "status": "pending",
-      "platform": "facebook"
+      "platform": "facebook",
+      "visualStyle": "Wide Angle"
     },
     {
-      "id": "plan_1765403630688_27",
-      "topic": "Herbstliche Gemütlichkeit in der Japandi Küche: Dekorationstipps mit saisonalen Akzenten.",
-      "date": "2026-02-04T09:00:00.000Z",
+      "id": "plan_1765437266803_27",
+      "topic": "Eiche trifft Natur: Ein Esstisch, der zum Mittelpunkt des familiären Lebens wird – Weitwinkel-Impressionen.",
+      "date": "2026-02-05T09:00:00.000Z",
       "status": "pending",
-      "platform": "facebook"
+      "platform": "facebook",
+      "visualStyle": "Wide Angle"
     },
     {
-      "id": "plan_1765403630688_28",
-      "topic": "Frühlingsfrische in der Küche: Leichte Rezepte und passende Deko für eure SieMatic-Oase.",
-      "date": "2026-02-06T09:00:00.000Z",
+      "id": "plan_1765437266803_28",
+      "topic": "Was ist DEIN Traum-Feature im Luxus-Ankleidezimmer? Wir bauen es dir!",
+      "date": "2026-02-07T09:00:00.000Z",
       "status": "pending",
-      "platform": "facebook"
+      "platform": "facebook",
+      "visualStyle": "Wide Angle"
     },
     {
-      "id": "plan_1765403630688_29",
-      "topic": "Winter-Wonderland in der Küche: Wie man mit warmem Licht und natürlichen Materialien eine wohlige Atmosphäre schafft.",
-      "date": "2026-02-08T09:00:00.000Z",
+      "id": "plan_1765437266803_29",
+      "topic": "Meisterstücke im Detail: Nahaufnahmen unserer Oberflächen – Von Eiche bis Kerrock.",
+      "date": "2026-02-09T09:00:00.000Z",
       "status": "pending",
-      "platform": "facebook"
+      "platform": "facebook",
+      "visualStyle": "Wide Angle"
     }
   ],
   "metamind_planner_topic": [
@@ -218,7 +248,7 @@
     "Esstisch aus eiche mit naturkannte und famiele die zusammen fröhlich essen",
     "luxus ankleidezimmer "
   ],
-  "metamind_planner_saved_at": "2025-12-11T07:13:48.563Z",
+  "metamind_planner_saved_at": "2025-12-11T07:14:28.815Z",
   "metamind_crm_contacts": [
     {
       "id": "contact_1765374697398_4",
