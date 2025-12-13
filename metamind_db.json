@@ -1,5 +1,246 @@
 {
-  "metamind_planner_items": [],
+  "metamind_planner_items": [
+    {
+      "id": "plan_social_1765620057621_0",
+      "topic": "Die zeitlose Eleganz: Ein Kurzvideo-Rundgang durch unsere neueste Siematic-Küche mit exklusiven Detailaufnahmen (Reel)",
+      "date": "2025-12-14T16:00:00.000Z",
+      "status": "pending",
+      "platform": "all_three",
+      "visualStyle": "Wide Angle"
+    },
+    {
+      "id": "plan_social_1765620057621_1",
+      "topic": "Smart Kitchen: 5 Funktionen, die Sie in Ihrer Siematic-Küche lieben werden – Experten-Erklärung (Reel)",
+      "date": "2025-12-15T16:00:00.000Z",
+      "status": "pending",
+      "platform": "all_three",
+      "visualStyle": "Detail Shot"
+    },
+    {
+      "id": "plan_social_1765620057621_2",
+      "topic": "Hinter den Kulissen: Vom Edelholz zum Hochglanz – Der Veredelungsprozess einer Siematic-Front (Reel)",
+      "date": "2025-12-16T16:00:00.000Z",
+      "status": "pending",
+      "platform": "all_three",
+      "visualStyle": "Wide Angle"
+    },
+    {
+      "id": "plan_social_1765620057621_3",
+      "topic": "Küchen-Mythen vs. Realität: Was stimmt wirklich über High-End-Küchen? (Humorvolles Reel)",
+      "date": "2025-12-17T16:00:00.000Z",
+      "status": "pending",
+      "platform": "all_three",
+      "visualStyle": "Detail Shot"
+    },
+    {
+      "id": "plan_social_1765620057622_4",
+      "topic": "Farb- und Materialkonzepte: Inspirierende Bildergalerie unserer Siematic-Küchenprojekte (Reel)",
+      "date": "2025-12-18T16:00:00.000Z",
+      "status": "pending",
+      "platform": "all_three",
+      "visualStyle": "Wide Angle"
+    },
+    {
+      "id": "plan_social_1765620057622_5",
+      "topic": "Die perfekte Arbeitsplatte für Ihre Siematic-Küche: Vor- und Nachteile der Top-Materialien (Reel)",
+      "date": "2025-12-19T16:00:00.000Z",
+      "status": "pending",
+      "platform": "all_three",
+      "visualStyle": "Detail Shot"
+    },
+    {
+      "id": "plan_social_1765620057622_6",
+      "topic": "Hygge für Zuhause: Ein virtueller Spaziergang durch unsere gemütliche skandinavische Traumküche (Reel)",
+      "date": "2025-12-20T16:00:00.000Z",
+      "status": "pending",
+      "platform": "all_three",
+      "visualStyle": "Wide Angle"
+    },
+    {
+      "id": "plan_social_1765620057622_7",
+      "topic": "Minimalismus & Funktion: 3 Designprinzipien, die jede skandinavische Küche ausmachen (Reel)",
+      "date": "2025-12-21T16:00:00.000Z",
+      "status": "pending",
+      "platform": "all_three",
+      "visualStyle": "Detail Shot"
+    },
+    {
+      "id": "plan_social_1765620057622_8",
+      "topic": "Die Seele des Holzes: Wie wir nachhaltige Materialien für unsere Scandinavi-Küchen auswählen (Reel)",
+      "date": "2025-12-22T16:00:00.000Z",
+      "status": "pending",
+      "platform": "all_three",
+      "visualStyle": "Wide Angle"
+    },
+    {
+      "id": "plan_social_1765620057622_9",
+      "topic": "DIY-Check: Kann man skandinavisches Design nachbauen? Unser Schreiner sagt... (Viral-Reel)",
+      "date": "2025-12-23T16:00:00.000Z",
+      "status": "pending",
+      "platform": "all_three",
+      "visualStyle": "Detail Shot"
+    },
+    {
+      "id": "plan_social_1765620057622_10",
+      "topic": "Skandi-Charme: Vorher/Nachher-Transformation einer Küche im skandinavischen Stil (Bilder-Reel)",
+      "date": "2025-12-24T16:00:00.000Z",
+      "status": "pending",
+      "platform": "all_three",
+      "visualStyle": "Wide Angle"
+    },
+    {
+      "id": "plan_social_1765620057622_11",
+      "topic": "Licht & Raum: Optimale Beleuchtungstipps für Ihre skandinavische Küche (Experten-Reel)",
+      "date": "2025-12-25T16:00:00.000Z",
+      "status": "pending",
+      "platform": "all_three",
+      "visualStyle": "Detail Shot"
+    },
+    {
+      "id": "plan_social_1765620057622_12",
+      "topic": "Ihre persönliche Wellness-Oase: Ein 360-Grad-Blick in ein maßgefertigtes Brandstifter-Badezimmer (Reel)",
+      "date": "2025-12-26T16:00:00.000Z",
+      "status": "pending",
+      "platform": "all_three",
+      "visualStyle": "Wide Angle"
+    },
+    {
+      "id": "plan_social_1765620057622_13",
+      "topic": "Feuchtigkeitstolerante Materialien: Was Sie bei der Wahl von Badmöbeln unbedingt beachten sollten (Reel)",
+      "date": "2025-12-27T16:00:00.000Z",
+      "status": "pending",
+      "platform": "all_three",
+      "visualStyle": "Detail Shot"
+    },
+    {
+      "id": "plan_social_1765620057622_14",
+      "topic": "Vom Rohbau zur Ruhezone: Die präzise Installation unserer Badmöbel – Timelapse-Video (Reel)",
+      "date": "2025-12-28T16:00:00.000Z",
+      "status": "pending",
+      "platform": "all_three",
+      "visualStyle": "Wide Angle"
+    },
+    {
+      "id": "plan_social_1765620057622_15",
+      "topic": "Bad-Trends 2024: Was wirklich stylish ist und was ein No-Go bleibt (Kurz-Check-Reel)",
+      "date": "2025-12-29T16:00:00.000Z",
+      "status": "pending",
+      "platform": "all_three",
+      "visualStyle": "Detail Shot"
+    },
+    {
+      "id": "plan_social_1765620057622_16",
+      "topic": "Kleine Bäder, große Wirkung: Intelligente Lösungen und clevere Stauraumkonzepte (Bilder-Reel)",
+      "date": "2025-12-30T16:00:00.000Z",
+      "status": "pending",
+      "platform": "all_three",
+      "visualStyle": "Wide Angle"
+    },
+    {
+      "id": "plan_social_1765620057622_17",
+      "topic": "Ergonomie im Bad: Wie wir Duschbereiche und Waschtische optimal anpassen (Experten-Reel)",
+      "date": "2025-12-31T16:00:00.000Z",
+      "status": "pending",
+      "platform": "all_three",
+      "visualStyle": "Detail Shot"
+    },
+    {
+      "id": "plan_social_1765620057622_18",
+      "topic": "Der erste Eindruck zählt: Unsere elegantesten Garderobenlösungen für jeden Eingangsbereich (Reel)",
+      "date": "2026-01-01T16:00:00.000Z",
+      "status": "pending",
+      "platform": "all_three",
+      "visualStyle": "Wide Angle"
+    },
+    {
+      "id": "plan_social_1765620057622_19",
+      "topic": "Ordnung mit System: 7 Tipps für eine perfekt organisierte Garderobe (Experten-Guide-Reel)",
+      "date": "2026-01-02T16:00:00.000Z",
+      "status": "pending",
+      "platform": "all_three",
+      "visualStyle": "Detail Shot"
+    },
+    {
+      "id": "plan_social_1765620057622_20",
+      "topic": "Maßarbeit im Detail: Wie eine Brandstifter-Garderobe passgenau für Ihre Nische entsteht (BTS-Reel)",
+      "date": "2026-01-03T16:00:00.000Z",
+      "status": "pending",
+      "platform": "all_three",
+      "visualStyle": "Wide Angle"
+    },
+    {
+      "id": "plan_social_1765620057622_21",
+      "topic": "Garderoben-Chaos beenden: Schnelle Hacks für mehr Platz und Stil in Ihrem Eingangsbereich (Viral-Reel)",
+      "date": "2026-01-04T16:00:00.000Z",
+      "status": "pending",
+      "platform": "all_three",
+      "visualStyle": "Detail Shot"
+    },
+    {
+      "id": "plan_social_1765620057622_22",
+      "topic": "Design-Vielfalt: Moderne, klassische und ausgefallene Garderoben-Projekte (Bilderkarussell-Reel)",
+      "date": "2026-01-05T16:00:00.000Z",
+      "status": "pending",
+      "platform": "all_three",
+      "visualStyle": "Wide Angle"
+    },
+    {
+      "id": "plan_social_1765620057622_23",
+      "topic": "Materialpflege leicht gemacht: So bleibt Ihre Garderobe lange schön – einfache Tipps (Reel)",
+      "date": "2026-01-06T16:00:00.000Z",
+      "status": "pending",
+      "platform": "all_three",
+      "visualStyle": "Detail Shot"
+    },
+    {
+      "id": "plan_social_1765620057622_24",
+      "topic": "Der Traum vom Ankleidezimmer: Ein exklusiver Einblick in ein Brandstifter Luxus-Projekt (Reel)",
+      "date": "2026-01-07T16:00:00.000Z",
+      "status": "pending",
+      "platform": "all_three",
+      "visualStyle": "Wide Angle"
+    },
+    {
+      "id": "plan_social_1765620057622_25",
+      "topic": "Intelligente Beleuchtung im Ankleidezimmer: Von der LED-Leiste bis zum Spiegellicht – Expertenwissen (Reel)",
+      "date": "2026-01-08T16:00:00.000Z",
+      "status": "pending",
+      "platform": "all_three",
+      "visualStyle": "Detail Shot"
+    },
+    {
+      "id": "plan_social_1765620057622_26",
+      "topic": "Hand in Hand: Der Entwurfsprozess und die Materialauswahl für ein maßgeschneidertes Ankleidezimmer (BTS-Reel)",
+      "date": "2026-01-09T16:00:00.000Z",
+      "status": "pending",
+      "platform": "all_three",
+      "visualStyle": "Wide Angle"
+    },
+    {
+      "id": "plan_social_1765620057622_27",
+      "topic": "Die 'Capsule Wardrobe'-Challenge: Wie unser Ankleidezimmer selbst Minimalisten begeistert (Viral-Reel)",
+      "date": "2026-01-10T16:00:00.000Z",
+      "status": "pending",
+      "platform": "all_three",
+      "visualStyle": "Detail Shot"
+    },
+    {
+      "id": "plan_social_1765620057622_28",
+      "topic": "Accessoires perfekt inszeniert: Schubladensysteme und Auszüge für Schmuck, Uhren & Krawatten (Bilder-Reel)",
+      "date": "2026-01-11T16:00:00.000Z",
+      "status": "pending",
+      "platform": "all_three",
+      "visualStyle": "Wide Angle"
+    },
+    {
+      "id": "plan_social_1765620057622_29",
+      "topic": "Schranktüren-Systeme im Vergleich: Schiebe-, Falt- oder Drehtüren – Was ist das Richtige für Sie? (Experten-Reel)",
+      "date": "2026-01-12T16:00:00.000Z",
+      "status": "pending",
+      "platform": "all_three",
+      "visualStyle": "Detail Shot"
+    }
+  ],
   "metamind_planner_topic": [
     "Küche Scandinavi",
     "Badezimmer",
@@ -7,7 +248,7 @@
     "Ankleidetimmer",
     "Küche wie Siematic"
   ],
-  "metamind_planner_saved_at": "2025-12-13T10:00:54.050Z",
+  "metamind_planner_saved_at": "2025-12-13T10:00:59.675Z",
   "metamind_github_config": {
     "active": true,
     "token": "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",
