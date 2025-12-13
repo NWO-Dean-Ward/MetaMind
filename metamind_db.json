@@ -4,7 +4,7 @@
       "id": "plan_social_1765620057621_0",
       "topic": "Die zeitlose Eleganz: Ein Kurzvideo-Rundgang durch unsere neueste Siematic-Küche mit exklusiven Detailaufnahmen (Reel)",
       "date": "2025-12-14T16:00:00.000Z",
-      "status": "pending",
+      "status": "error",
       "platform": "all_three",
       "visualStyle": "Wide Angle"
     },
@@ -248,7 +248,7 @@
     "Ankleidetimmer",
     "Küche wie Siematic"
   ],
-  "metamind_planner_saved_at": "2025-12-13T10:00:59.675Z",
+  "metamind_planner_saved_at": "2025-12-13T10:01:33.076Z",
   "metamind_github_config": {
     "active": true,
     "token": "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",
