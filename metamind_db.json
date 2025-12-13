@@ -12,7 +12,7 @@
       "id": "plan_social_1765620057621_1",
       "topic": "Smart Kitchen: 5 Funktionen, die Sie in Ihrer Siematic-Küche lieben werden – Experten-Erklärung (Reel)",
       "date": "2025-12-15T16:00:00.000Z",
-      "status": "pending",
+      "status": "error",
       "platform": "all_three",
       "visualStyle": "Detail Shot"
     },
@@ -248,7 +248,7 @@
     "Ankleidetimmer",
     "Küche wie Siematic"
   ],
-  "metamind_planner_saved_at": "2025-12-13T10:01:33.076Z",
+  "metamind_planner_saved_at": "2025-12-13T10:01:59.519Z",
   "metamind_github_config": {
     "active": true,
     "token": "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",
